@@ -1,0 +1,36 @@
+{
+  "formatVersion": 2,
+  "contentVersion": 17,
+  "publishedAt": "2026-09-27T09:08:36Z",
+  "lastId": 152,
+  "files": [
+    {
+      "path": "index.json",
+      "sha256": "8e3232fc9a844513041391feb3475231d61cc6e15d0cce6ab909695daa4fa1df"
+    },
+    {
+      "path": "campaign.json",
+      "sha256": "1ee38485b64493e32c235e9f6b0db421c932d3b7251d4a181aeecd0ceb5a3c8f"
+    },
+    {
+      "path": "daily.json",
+      "sha256": "e2618c108127b180f7ddaa53950717ebe6e89eb53a1415baf56c0cedcbbdffd8"
+    },
+    {
+      "path": "packs/0001.json",
+      "sha256": "873208cf174ce833ec2e36fce6912bd24ed86c1a21f2ffe2132fb8bbde25e32a"
+    },
+    {
+      "path": "packs/0002.json",
+      "sha256": "c2ad50f44af56085d3c7dfdf04da232fc0ddb8005cbf6bd22a26af1028f461fa"
+    },
+    {
+      "path": "packs/0003.json",
+      "sha256": "d0bd5eca7b6950639be4519f6912397393dc61558846797a0b21dabf6e87cea1"
+    },
+    {
+      "path": "packs/0004.json",
+      "sha256": "8592b87357a1bce9118a1a1bcff40b7a99cb979c41c20fcb3d1b21953b9a4f63"
+    }
+  ]
+}

@@ -1,0 +1,3755 @@
+{
+  "pack": 2,
+  "puzzles": [
+    {
+      "id": "p000051",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "#MAINLAND",
+        "I#T#U#G#I",
+        "MULTI#OPS",
+        "M#A#S###C",
+        "INSTANCE#",
+        "N###N#O#B",
+        "EAT#CHILL",
+        "N#I#E#N#U",
+        "THEM#USER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "__ China",
+            "answer": "MAINLAND",
+            "source": "atc/2005"
+          },
+          {
+            "number": 7,
+            "text": "Directional or dimensional starter",
+            "answer": "MULTI",
+            "source": "atc/2005"
+          },
+          {
+            "number": 8,
+            "text": "Black ___",
+            "answer": "OPS",
+            "source": "wap/2022"
+          },
+          {
+            "number": 9,
+            "text": "Example cited",
+            "answer": "INSTANCE",
+            "source": "cht/2002"
+          },
+          {
+            "number": 12,
+            "text": "Snack on",
+            "answer": "EAT",
+            "source": "lat/2024"
+          },
+          {
+            "number": 14,
+            "text": "Kick back",
+            "answer": "CHILL",
+            "source": "lat/2020"
+          },
+          {
+            "number": 15,
+            "text": "Pronoun",
+            "answer": "THEM",
+            "source": "lat/1998"
+          },
+          {
+            "number": 16,
+            "text": "False friend",
+            "answer": "USER",
+            "source": "nw/2023"
+          }
+        ],
+        "down": [
+          {
+            "number": 2,
+            "text": "Cartography collection",
+            "answer": "ATLAS",
+            "source": "lat/2024"
+          },
+          {
+            "number": 3,
+            "text": "Annoyance",
+            "answer": "NUISANCE",
+            "source": "cht/2008"
+          },
+          {
+            "number": 4,
+            "text": "Back",
+            "answer": "AGO",
+            "source": "lat/2024"
+          },
+          {
+            "number": 5,
+            "text": "Compact __ player",
+            "answer": "DISC",
+            "source": "nw/2023"
+          },
+          {
+            "number": 6,
+            "text": "At hand",
+            "answer": "IMMINENT",
+            "source": "up/2005"
+          },
+          {
+            "number": 10,
+            "text": "Nickels and quarters",
+            "answer": "COINS",
+            "source": "nw/2017"
+          },
+          {
+            "number": 11,
+            "text": "Make fuzzy",
+            "answer": "BLUR",
+            "source": "lat/2024"
+          },
+          {
+            "number": 13,
+            "text": "50-50, e.g.",
+            "answer": "TIE",
+            "source": "lat/2017"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000052",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "BEAM#SOLO",
+        "O###T###V",
+        "ACUTE#AGE",
+        "T#N#X#D#R",
+        "#EDITIONS",
+        "L#E#B#P#E",
+        "AIRPORT#A",
+        "M#G#O#E#S",
+        "BLOCKADE#"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Ray",
+            "answer": "BEAM",
+            "source": "slate/2025"
+          },
+          {
+            "number": 2,
+            "text": "Unaided",
+            "answer": "SOLO",
+            "source": "lat/2018"
+          },
+          {
+            "number": 5,
+            "text": "Sharp, as eyesight",
+            "answer": "ACUTE",
+            "source": "nw/2023"
+          },
+          {
+            "number": 7,
+            "text": "Long time",
+            "answer": "AGE",
+            "source": "lat/2013"
+          },
+          {
+            "number": 8,
+            "text": "Bibliophile's set",
+            "answer": "EDITIONS",
+            "source": "lat/2008"
+          },
+          {
+            "number": 10,
+            "text": "Control tower location",
+            "answer": "AIRPORT",
+            "source": "cs/2007"
+          },
+          {
+            "number": 11,
+            "text": "Military embargo",
+            "answer": "BLOCKADE",
+            "source": "nw/2004"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Dory or dinghy",
+            "answer": "BOAT",
+            "source": "nw/1998"
+          },
+          {
+            "number": 3,
+            "text": "Far away",
+            "answer": "OVERSEAS",
+            "source": "nw/2003"
+          },
+          {
+            "number": 4,
+            "text": "Classroom manual",
+            "answer": "TEXTBOOK",
+            "source": "nw/2013"
+          },
+          {
+            "number": 6,
+            "text": "Have, as an operation",
+            "answer": "UNDERGO",
+            "source": "lat/2010"
+          },
+          {
+            "number": 7,
+            "text": "Embraced",
+            "answer": "ADOPTED",
+            "source": "lat/1996"
+          },
+          {
+            "number": 9,
+            "text": "Souvlaki meat",
+            "answer": "LAMB",
+            "source": "lat/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000053",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "COMEDIAN#",
+        "A#A#R#S#D",
+        "PHYSICS#R",
+        "I###P#I#E",
+        "TAPS#USES",
+        "A#L#U#T#S",
+        "LEAFS#SKI",
+        "S#Z#E###N",
+        "#HANDLING"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Joke teller",
+            "answer": "COMEDIAN",
+            "source": "nw/2009"
+          },
+          {
+            "number": 6,
+            "text": "Nobel Prize category",
+            "answer": "PHYSICS",
+            "source": "pk/2012"
+          },
+          {
+            "number": 7,
+            "text": "Lights-out signal",
+            "answer": "TAPS",
+            "source": "lat/2013"
+          },
+          {
+            "number": 9,
+            "text": "Consumes",
+            "answer": "USES",
+            "source": "lat/2012"
+          },
+          {
+            "number": 11,
+            "text": "Pages (through)",
+            "answer": "LEAFS",
+            "source": "avc/2018"
+          },
+          {
+            "number": 12,
+            "text": "Deal with moguls",
+            "answer": "SKI",
+            "source": "lat/2019"
+          },
+          {
+            "number": 13,
+            "text": "\"Postage and ___\"",
+            "answer": "HANDLING",
+            "source": "nyt/1974"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Paris and Tokyo, e.g.",
+            "answer": "CAPITALS",
+            "source": "manual"
+          },
+          {
+            "number": 2,
+            "text": "Could possibly",
+            "answer": "MAY",
+            "source": "nw/2023"
+          },
+          {
+            "number": 3,
+            "text": "Tap problem",
+            "answer": "DRIP",
+            "source": "che/2013"
+          },
+          {
+            "number": 4,
+            "text": "Helps",
+            "answer": "ASSISTS",
+            "source": "nw/2013"
+          },
+          {
+            "number": 5,
+            "text": "Liquid topping for a salad",
+            "answer": "DRESSING",
+            "source": "nw/2022"
+          },
+          {
+            "number": 8,
+            "text": "Square",
+            "answer": "PLAZA",
+            "source": "lat/2024"
+          },
+          {
+            "number": 10,
+            "text": "Accustomed (to)",
+            "answer": "USED",
+            "source": "nw/2016"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000054",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "ECHO#FREE",
+        "N#A#V#A#D",
+        "ANIME#DOG",
+        "B#R#N#I#E",
+        "LOCATION#",
+        "I#U#U###U",
+        "NUT#RESIN",
+        "G###E#E#I",
+        "#CONSTANT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Comeback",
+            "answer": "ECHO",
+            "source": "eltana/2012"
+          },
+          {
+            "number": 3,
+            "text": "For nothing",
+            "answer": "FREE",
+            "source": "lat/2016"
+          },
+          {
+            "number": 7,
+            "text": "Japanese film genre",
+            "answer": "ANIME",
+            "source": "nw/2020"
+          },
+          {
+            "number": 8,
+            "text": "Follow",
+            "answer": "DOG",
+            "source": "lat/2011"
+          },
+          {
+            "number": 9,
+            "text": "Whereabouts",
+            "answer": "LOCATION",
+            "source": "nw/2009"
+          },
+          {
+            "number": 11,
+            "text": "Cashew or pecan",
+            "answer": "NUT",
+            "source": "lat/2025"
+          },
+          {
+            "number": 12,
+            "text": "Amber",
+            "answer": "RESIN",
+            "source": "atc/2006"
+          },
+          {
+            "number": 14,
+            "text": "Unvarying",
+            "answer": "CONSTANT",
+            "source": "nw/2013"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Abettor's activity",
+            "answer": "ENABLING",
+            "source": "nw/2023"
+          },
+          {
+            "number": 2,
+            "text": "Barbershop task",
+            "answer": "HAIRCUT",
+            "source": "nw/2023"
+          },
+          {
+            "number": 4,
+            "text": "Ham medium",
+            "answer": "RADIO",
+            "source": "lat/2006"
+          },
+          {
+            "number": 5,
+            "text": "Precipice",
+            "answer": "EDGE",
+            "source": "lat/2024"
+          },
+          {
+            "number": 6,
+            "text": "Fliers",
+            "answer": "VENTURES",
+            "source": "nw/2005"
+          },
+          {
+            "number": 10,
+            "text": "Distinct part",
+            "answer": "UNIT",
+            "source": "lat/1996"
+          },
+          {
+            "number": 13,
+            "text": "Multitude",
+            "answer": "SEA",
+            "source": "lat/2019"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000055",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "HANDMADE#",
+        "O#U#E#R#R",
+        "SECRECY#E",
+        "T#L#T###C",
+        "AGED#GRAY",
+        "G#A#T#U#C",
+        "EARNING#L",
+        "S###L#B#E",
+        "#EMPLOYED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Like cherished gifts",
+            "answer": "HANDMADE",
+            "source": "atc/2005"
+          },
+          {
+            "number": 6,
+            "text": "Hidden condition",
+            "answer": "SECRECY",
+            "source": "beq/0"
+          },
+          {
+            "number": 7,
+            "text": "Seasoned",
+            "answer": "AGED",
+            "source": "nw/2012"
+          },
+          {
+            "number": 8,
+            "text": "Ashen",
+            "answer": "GRAY",
+            "source": "cs/2014"
+          },
+          {
+            "number": 11,
+            "text": "Kind of power",
+            "answer": "EARNING",
+            "source": "bg/1986"
+          },
+          {
+            "number": 12,
+            "text": "Like a working stiff",
+            "answer": "EMPLOYED",
+            "source": "pi/2013"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Some captives",
+            "answer": "HOSTAGES",
+            "source": "pk/2015"
+          },
+          {
+            "number": 2,
+            "text": "Atomic",
+            "answer": "NUCLEAR",
+            "source": "bg/2000"
+          },
+          {
+            "number": 3,
+            "text": "Satisfy",
+            "answer": "MEET",
+            "source": "nw/2016"
+          },
+          {
+            "number": 4,
+            "text": "Desiccate",
+            "answer": "DRY",
+            "source": "bg/1984"
+          },
+          {
+            "number": 5,
+            "text": "Sorted paper and plastic in bins",
+            "answer": "RECYCLED",
+            "source": "nw/2023"
+          },
+          {
+            "number": 9,
+            "text": "Soccer kin",
+            "answer": "RUGBY",
+            "source": "pi/2013"
+          },
+          {
+            "number": 10,
+            "text": "Dough drawer",
+            "answer": "TILL",
+            "source": "lat/2017"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000056",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "EXTENDED#",
+        "A#I#O###I",
+        "T#PENSION",
+        "S###S#N#C",
+        "#REVERSAL",
+        "M#V#N#P#I",
+        "A#EASTERN",
+        "R#R#E#C#E",
+        "KEYS#STUD"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Longer than normal",
+            "answer": "EXTENDED",
+            "source": "club/2018"
+          },
+          {
+            "number": 5,
+            "text": "Income after work",
+            "answer": "PENSION",
+            "source": "mj/2007"
+          },
+          {
+            "number": 7,
+            "text": "About-face",
+            "answer": "REVERSAL",
+            "source": "lat/2014"
+          },
+          {
+            "number": 10,
+            "text": "Toward the sunrise",
+            "answer": "EASTERN",
+            "source": "manual"
+          },
+          {
+            "number": 11,
+            "text": "Ivories",
+            "answer": "KEYS",
+            "source": "bg/2011"
+          },
+          {
+            "number": 12,
+            "text": "Buttonlike earring",
+            "answer": "STUD",
+            "source": "nw/2023"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Diner offering",
+            "answer": "EATS",
+            "source": "nw/2008"
+          },
+          {
+            "number": 2,
+            "text": "Apex",
+            "answer": "TIP",
+            "source": "nw/2013"
+          },
+          {
+            "number": 3,
+            "text": "Bunk",
+            "answer": "NONSENSE",
+            "source": "nw/2016"
+          },
+          {
+            "number": 4,
+            "text": "Given",
+            "answer": "INCLINED",
+            "source": "cht/1997"
+          },
+          {
+            "number": 6,
+            "text": "Check for quality",
+            "answer": "INSPECT",
+            "source": "nw/2009"
+          },
+          {
+            "number": 8,
+            "text": "___ now and then",
+            "answer": "EVERY",
+            "source": "manual"
+          },
+          {
+            "number": 9,
+            "text": "Grade",
+            "answer": "MARK",
+            "source": "lat/2020"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000057",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "REVIEWED#",
+        "I#I#N#N#H",
+        "GAS#VIDEO",
+        "O#I#Y#U#M",
+        "RATE#TRUE",
+        "O#E#S#E#L",
+        "UPDATED#E",
+        "S###O###S",
+        "#DOLPHINS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Critiqued",
+            "answer": "REVIEWED",
+            "source": "usa/2007"
+          },
+          {
+            "number": 6,
+            "text": "Hot air",
+            "answer": "GAS",
+            "source": "bg/2015"
+          },
+          {
+            "number": 7,
+            "text": "Audio counterpart",
+            "answer": "VIDEO",
+            "source": "lat/2013"
+          },
+          {
+            "number": 8,
+            "text": "Cost per unit",
+            "answer": "RATE",
+            "source": "pk/2010"
+          },
+          {
+            "number": 9,
+            "text": "So",
+            "answer": "TRUE",
+            "source": "ss/2006"
+          },
+          {
+            "number": 11,
+            "text": "New now",
+            "answer": "UPDATED",
+            "source": "nw/2023"
+          },
+          {
+            "number": 12,
+            "text": "Swimmers with blowholes",
+            "answer": "DOLPHINS",
+            "source": "cs/2011"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Demanding",
+            "answer": "RIGOROUS",
+            "source": "nw/2004"
+          },
+          {
+            "number": 2,
+            "text": "Called on",
+            "answer": "VISITED",
+            "source": "tny/2023"
+          },
+          {
+            "number": 3,
+            "text": "A Deadly Sin",
+            "answer": "ENVY",
+            "source": "pi/2007"
+          },
+          {
+            "number": 4,
+            "text": "Lasted",
+            "answer": "ENDURED",
+            "source": "db/2009"
+          },
+          {
+            "number": 5,
+            "text": "Like stray cats",
+            "answer": "HOMELESS",
+            "source": "upc/0"
+          },
+          {
+            "number": 10,
+            "text": "Knock off",
+            "answer": "STOP",
+            "source": "bg/2014"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000058",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "TUCK#EYED",
+        "I#U#S#E#I",
+        "PUB#TYPES",
+        "S#I#U###C",
+        "#SCENARIO",
+        "P###N#O#U",
+        "AMAZING#N",
+        "I#D#N#U#T",
+        "RESIGNED#"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Fictional friar",
+            "answer": "TUCK",
+            "source": "wap/2016"
+          },
+          {
+            "number": 3,
+            "text": "Saw",
+            "answer": "EYED",
+            "source": "lat/2021"
+          },
+          {
+            "number": 7,
+            "text": "Crawl space?",
+            "answer": "PUB",
+            "source": "lat/2023"
+          },
+          {
+            "number": 8,
+            "text": "Kinds",
+            "answer": "TYPES",
+            "source": "pk/2013"
+          },
+          {
+            "number": 9,
+            "text": "Script",
+            "answer": "SCENARIO",
+            "source": "bg/2013"
+          },
+          {
+            "number": 12,
+            "text": "Awesome",
+            "answer": "AMAZING",
+            "source": "ss/2004"
+          },
+          {
+            "number": 14,
+            "text": "Quit",
+            "answer": "RESIGNED",
+            "source": "nw/2000"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Good things that come to those who wait",
+            "answer": "TIPS",
+            "source": "cs/2008"
+          },
+          {
+            "number": 2,
+            "text": "Three-dimensional",
+            "answer": "CUBIC",
+            "source": "wap/2024"
+          },
+          {
+            "number": 4,
+            "text": "Slangy agreement",
+            "answer": "YEP",
+            "source": "nw/2010"
+          },
+          {
+            "number": 5,
+            "text": "Kind of broker",
+            "answer": "DISCOUNT",
+            "source": "nyt/1997"
+          },
+          {
+            "number": 6,
+            "text": "A real corker",
+            "answer": "STUNNING",
+            "source": "up/2013"
+          },
+          {
+            "number": 10,
+            "text": "Trickster",
+            "answer": "ROGUE",
+            "source": "lat/2005"
+          },
+          {
+            "number": 11,
+            "text": "Poker hand",
+            "answer": "PAIR",
+            "source": "wap/2024"
+          },
+          {
+            "number": 13,
+            "text": "Want __",
+            "answer": "ADS",
+            "source": "nw/2011"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000059",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "#MULTIPLY",
+        "P###U#E#O",
+        "ROGER#RAG",
+        "A#R#B###A",
+        "CLINICAL#",
+        "T#L#N#N#B",
+        "ILL#EAGLE",
+        "C#E#S#L#E",
+        "ENDS#DEAF"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Be fruitful",
+            "answer": "MULTIPLY",
+            "source": "cht/2000"
+          },
+          {
+            "number": 6,
+            "text": "\"Understood\"",
+            "answer": "ROGER",
+            "source": "lat/2025"
+          },
+          {
+            "number": 8,
+            "text": "Duster",
+            "answer": "RAG",
+            "source": "lat/2007"
+          },
+          {
+            "number": 9,
+            "text": "Coolly dispassionate",
+            "answer": "CLINICAL",
+            "source": "lat/2017"
+          },
+          {
+            "number": 12,
+            "text": "Badly",
+            "answer": "ILL",
+            "source": "nw/2023"
+          },
+          {
+            "number": 13,
+            "text": "Bird of prey",
+            "answer": "EAGLE",
+            "source": "manual"
+          },
+          {
+            "number": 14,
+            "text": "Tips",
+            "answer": "ENDS",
+            "source": "lat/2025"
+          },
+          {
+            "number": 15,
+            "text": "Turn a __ ear to",
+            "answer": "DEAF",
+            "source": "atc/2006"
+          }
+        ],
+        "down": [
+          {
+            "number": 2,
+            "text": "Rotary engines",
+            "answer": "TURBINES",
+            "source": "usa/2003"
+          },
+          {
+            "number": 3,
+            "text": "By",
+            "answer": "PER",
+            "source": "wap/2014"
+          },
+          {
+            "number": 4,
+            "text": "Meditation method",
+            "answer": "YOGA",
+            "source": "che/2015"
+          },
+          {
+            "number": 5,
+            "text": "Drill",
+            "answer": "PRACTICE",
+            "source": "lat/2024"
+          },
+          {
+            "number": 7,
+            "text": "Cooked on a hibachi",
+            "answer": "GRILLED",
+            "source": "nw/1999"
+          },
+          {
+            "number": 10,
+            "text": "Go fishing",
+            "answer": "ANGLE",
+            "source": "lat/2015"
+          },
+          {
+            "number": 11,
+            "text": "Grievance",
+            "answer": "BEEF",
+            "source": "lat/2011"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000060",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "PATHETIC#",
+        "O#A#D#M#P",
+        "INK#GAMER",
+        "S#E#E#E#E",
+        "OWNS#ENDS",
+        "N###B#S#E",
+        "EQUAL#EAR",
+        "D#P#U###V",
+        "#USERNAME"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Pitiful",
+            "answer": "PATHETIC",
+            "source": "up/2011"
+          },
+          {
+            "number": 6,
+            "text": "Printer's purchase",
+            "answer": "INK",
+            "source": "lat/2012"
+          },
+          {
+            "number": 7,
+            "text": "Dungeons and Dragons fan",
+            "answer": "GAMER",
+            "source": "nw/2003"
+          },
+          {
+            "number": 8,
+            "text": "Admits",
+            "answer": "OWNS",
+            "source": "cht/1996"
+          },
+          {
+            "number": 9,
+            "text": "Book ___",
+            "answer": "ENDS",
+            "source": "pi/2012"
+          },
+          {
+            "number": 11,
+            "text": "Come to",
+            "answer": "EQUAL",
+            "source": "nw/2022"
+          },
+          {
+            "number": 13,
+            "text": "Portion of corn",
+            "answer": "EAR",
+            "source": "nw/2023"
+          },
+          {
+            "number": 14,
+            "text": "Surfer's selection",
+            "answer": "USERNAME",
+            "source": "cs/2010"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Like a certain fairy tale apple",
+            "answer": "POISONED",
+            "source": "lat/2014"
+          },
+          {
+            "number": 2,
+            "text": "Accepted",
+            "answer": "TAKEN",
+            "source": "lat/1999"
+          },
+          {
+            "number": 3,
+            "text": "Verge",
+            "answer": "EDGE",
+            "source": "atl/2022"
+          },
+          {
+            "number": 4,
+            "text": "Enormous",
+            "answer": "IMMENSE",
+            "source": "gfp/2017"
+          },
+          {
+            "number": 5,
+            "text": "Maintain",
+            "answer": "PRESERVE",
+            "source": "cht/1997"
+          },
+          {
+            "number": 10,
+            "text": "Obfuscate",
+            "answer": "BLUR",
+            "source": "lat/2023"
+          },
+          {
+            "number": 12,
+            "text": "Delivery company",
+            "answer": "UPS",
+            "source": "atc/2006"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000061",
+      "rev": 1,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "#MOMENTUM",
+        "M#L#A#I#O",
+        "ADD#TYPED",
+        "I#E#S###E",
+        "NERD#BEAR",
+        "L###I#M#A",
+        "ANTENNA#T",
+        "N#O#C#I#E",
+        "DOWNHILL#"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Shifting feature of many contests",
+            "answer": "MOMENTUM",
+            "source": "lat/2007"
+          },
+          {
+            "number": 7,
+            "text": "Attach",
+            "answer": "ADD",
+            "source": "beq/2019"
+          },
+          {
+            "number": 8,
+            "text": "Punched keys",
+            "answer": "TYPED",
+            "source": "atc/2005"
+          },
+          {
+            "number": 9,
+            "text": "Single-minded expert",
+            "answer": "NERD",
+            "source": "nw/2021"
+          },
+          {
+            "number": 10,
+            "text": "Carry",
+            "answer": "BEAR",
+            "source": "beq/2019"
+          },
+          {
+            "number": 13,
+            "text": "Wave catcher",
+            "answer": "ANTENNA",
+            "source": "beq/2019"
+          },
+          {
+            "number": 15,
+            "text": "High-speed skiing event",
+            "answer": "DOWNHILL",
+            "source": "nys/2008"
+          }
+        ],
+        "down": [
+          {
+            "number": 2,
+            "text": "Wiser's partner",
+            "answer": "OLDER",
+            "source": "cs/2015"
+          },
+          {
+            "number": 3,
+            "text": "Bolts down",
+            "answer": "EATS",
+            "source": "atc/2007"
+          },
+          {
+            "number": 4,
+            "text": "Good thing that comes to those who wait",
+            "answer": "TIP",
+            "source": "cs/2003"
+          },
+          {
+            "number": 5,
+            "text": "Centrist",
+            "answer": "MODERATE",
+            "source": "nw/2000"
+          },
+          {
+            "number": 6,
+            "text": "__ China",
+            "answer": "MAINLAND",
+            "source": "atc/2005"
+          },
+          {
+            "number": 11,
+            "text": "In-box contents",
+            "answer": "EMAIL",
+            "source": "lat/2021"
+          },
+          {
+            "number": 12,
+            "text": "Move bit by bit",
+            "answer": "INCH",
+            "source": "lat/2020"
+          },
+          {
+            "number": 14,
+            "text": "Drag from behind",
+            "answer": "TOW",
+            "source": "nw/2020"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000062",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "PORCH",
+        "A#E#U",
+        "CHARM",
+        "E#D#O",
+        "DRYER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Swing setting",
+            "answer": "PORCH",
+            "source": "cs/2015"
+          },
+          {
+            "number": 4,
+            "text": "Captivate",
+            "answer": "CHARM",
+            "source": "lat/2022"
+          },
+          {
+            "number": 5,
+            "text": "Salon appliance",
+            "answer": "DRYER",
+            "source": "nw/2015"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Measured by walking",
+            "answer": "PACED",
+            "source": "nw/2021"
+          },
+          {
+            "number": 2,
+            "text": "Set",
+            "answer": "READY",
+            "source": "nw/2019"
+          },
+          {
+            "number": 3,
+            "text": "Comical quality",
+            "answer": "HUMOR",
+            "source": "nw/2020"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000063",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "BADLY",
+        "U#E#A",
+        "RANCH",
+        "S#I#O",
+        "TEMPO"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "In the worst way",
+            "answer": "BADLY",
+            "source": "nw/2023"
+          },
+          {
+            "number": 4,
+            "text": "Cowboy's workplace",
+            "answer": "RANCH",
+            "source": "nw/2014"
+          },
+          {
+            "number": 5,
+            "text": "Allegro, e.g.",
+            "answer": "TEMPO",
+            "source": "pk/2008"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Break open",
+            "answer": "BURST",
+            "source": "lat/2019"
+          },
+          {
+            "number": 2,
+            "text": "Overalls fabric",
+            "answer": "DENIM",
+            "source": "nw/2021"
+          },
+          {
+            "number": 3,
+            "text": "Uncouth person",
+            "answer": "YAHOO",
+            "source": "cht/2009"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000064",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "THROW",
+        "R#A#O",
+        "AFTER",
+        "D#E#L",
+        "ENDED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Pitch",
+            "answer": "THROW",
+            "source": "bg/2006"
+          },
+          {
+            "number": 4,
+            "text": "In honor of",
+            "answer": "AFTER",
+            "source": "lat/2019"
+          },
+          {
+            "number": 5,
+            "text": "Finito",
+            "answer": "ENDED",
+            "source": "cs/2006"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Buy and sell",
+            "answer": "TRADE",
+            "source": "nw/2017"
+          },
+          {
+            "number": 2,
+            "text": "Graded",
+            "answer": "RATED",
+            "source": "lat/2020"
+          },
+          {
+            "number": 3,
+            "text": "Earth",
+            "answer": "WORLD",
+            "source": "eltana/2013"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000065",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "FLICK",
+        "A#N#E",
+        "TITLE",
+        "T#E#P",
+        "YARDS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Hit with the index finger, say",
+            "answer": "FLICK",
+            "source": "club/2016"
+          },
+          {
+            "number": 4,
+            "text": "King or queen",
+            "answer": "TITLE",
+            "source": "lat/2018"
+          },
+          {
+            "number": 5,
+            "text": "Play areas",
+            "answer": "YARDS",
+            "source": "nw/2018"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Like bacon",
+            "answer": "FATTY",
+            "source": "pi/2006"
+          },
+          {
+            "number": 2,
+            "text": "Put to rest",
+            "answer": "INTER",
+            "source": "lat/2018"
+          },
+          {
+            "number": 3,
+            "text": "Hangs on to",
+            "answer": "KEEPS",
+            "source": "nw/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000066",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "THESE",
+        "O#X#U",
+        "PRIOR",
+        "I#T#O",
+        "COSTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "What's here",
+            "answer": "THESE",
+            "source": "nw/2018"
+          },
+          {
+            "number": 4,
+            "text": "Abbot's aide",
+            "answer": "PRIOR",
+            "source": "bg/2008"
+          },
+          {
+            "number": 5,
+            "text": "Overhead",
+            "answer": "COSTS",
+            "source": "cs/2015"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Subject being discussed",
+            "answer": "TOPIC",
+            "source": "nw/2022"
+          },
+          {
+            "number": 2,
+            "text": "Departs",
+            "answer": "EXITS",
+            "source": "cht/2009"
+          },
+          {
+            "number": 3,
+            "text": "Mark replacements",
+            "answer": "EUROS",
+            "source": "lat/2021"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000067",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "CHASE",
+        "L#T#A",
+        "ABOUT",
+        "I#M#E",
+        "MASON"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Try to catch",
+            "answer": "CHASE",
+            "source": "cs/2013"
+          },
+          {
+            "number": 4,
+            "text": "In the vicinity",
+            "answer": "ABOUT",
+            "source": "nw/2007"
+          },
+          {
+            "number": 5,
+            "text": "Layer of bricks",
+            "answer": "MASON",
+            "source": "lat/2020"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Maintain",
+            "answer": "CLAIM",
+            "source": "lat/2022"
+          },
+          {
+            "number": 2,
+            "text": "Elemental units",
+            "answer": "ATOMS",
+            "source": "atc/2006"
+          },
+          {
+            "number": 3,
+            "text": "No longer on the plate",
+            "answer": "EATEN",
+            "source": "beq/2019"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000068",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "THING",
+        "O#D#L",
+        "OPERA",
+        "L#A#S",
+        "SELLS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Gizmo",
+            "answer": "THING",
+            "source": "cs/2011"
+          },
+          {
+            "number": 4,
+            "text": "Grammy category",
+            "answer": "OPERA",
+            "source": "nw/2021"
+          },
+          {
+            "number": 5,
+            "text": "Goes like hotcakes",
+            "answer": "SELLS",
+            "source": "atc/2006"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Kit contents",
+            "answer": "TOOLS",
+            "source": "nw/2020"
+          },
+          {
+            "number": 2,
+            "text": "Goal",
+            "answer": "IDEAL",
+            "source": "cht/1995"
+          },
+          {
+            "number": 3,
+            "text": "Window material",
+            "answer": "GLASS",
+            "source": "nw/2019"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000069",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "JUDGE",
+        "E#E#V",
+        "LANCE",
+        "L#I#R",
+        "YUMMY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Courtroom figure",
+            "answer": "JUDGE",
+            "source": "manual"
+          },
+          {
+            "number": 4,
+            "text": "Old weapon",
+            "answer": "LANCE",
+            "source": "atc/2003"
+          },
+          {
+            "number": 5,
+            "text": "Delish!",
+            "answer": "YUMMY",
+            "source": "atc/2007"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Sweet spread",
+            "answer": "JELLY",
+            "source": "nw/2008"
+          },
+          {
+            "number": 2,
+            "text": "It's in your jeans",
+            "answer": "DENIM",
+            "source": "lat/2019"
+          },
+          {
+            "number": 3,
+            "text": "\"__ Breath You Take\"",
+            "answer": "EVERY",
+            "source": "atc/2007"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000070",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 2,
+      "grid": [
+        "WITTY",
+        "I#E#A",
+        "PORCH",
+        "E#M#O",
+        "DISCO"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Quick with quips",
+            "answer": "WITTY",
+            "source": "lat/2023"
+          },
+          {
+            "number": 4,
+            "text": "Swing site",
+            "answer": "PORCH",
+            "source": "lat/2021"
+          },
+          {
+            "number": 5,
+            "text": "Dance style",
+            "answer": "DISCO",
+            "source": "atc/2006"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Exhausted, with \"out\"",
+            "answer": "WIPED",
+            "source": "lat/2012"
+          },
+          {
+            "number": 2,
+            "text": "Expressions",
+            "answer": "TERMS",
+            "source": "atc/2005"
+          },
+          {
+            "number": 3,
+            "text": "Google competitor",
+            "answer": "YAHOO",
+            "source": "nw/2018"
+          }
+        ]
+      },
+      "batch": "2026-09-27e"
+    },
+    {
+      "id": "p000071",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "POLIO",
+        "A#O#W",
+        "GROWN",
+        "E#S#E",
+        "SPEAR"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Vaccine target",
+            "answer": "POLIO",
+            "source": "nyt/2016"
+          },
+          {
+            "number": 4,
+            "text": "No longer a kid",
+            "answer": "GROWN",
+            "source": "nyt/2024"
+          },
+          {
+            "number": 5,
+            "text": "Blade of grass",
+            "answer": "SPEAR",
+            "source": "nyt/1991"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Bellboys",
+            "answer": "PAGES",
+            "source": "nyt/1986"
+          },
+          {
+            "number": 2,
+            "text": "Disconnected",
+            "answer": "LOOSE",
+            "source": "nyt/1963"
+          },
+          {
+            "number": 3,
+            "text": "Deed recipient",
+            "answer": "OWNER",
+            "source": "nyt/1992"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000072",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "WAIST",
+        "E#N#A",
+        "ISLES",
+        "R#E#E",
+        "DETER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Oft-watched line",
+            "answer": "WAIST",
+            "source": "nyt/1988"
+          },
+          {
+            "number": 4,
+            "text": "Avalon and others",
+            "answer": "ISLES",
+            "source": "nyt/1966"
+          },
+          {
+            "number": 5,
+            "text": "Daunt",
+            "answer": "DETER",
+            "source": "nyt/1990"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Eldritch",
+            "answer": "WEIRD",
+            "source": "nyt/1992"
+          },
+          {
+            "number": 2,
+            "text": "Waterway",
+            "answer": "INLET",
+            "source": "nyt/1978"
+          },
+          {
+            "number": 3,
+            "text": "Perp zapper",
+            "answer": "TASER",
+            "source": "wsj/2018"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000073",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "CROSS",
+        "R#V#T",
+        "ARENA",
+        "M#R#R",
+        "PASTE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Hybrid",
+            "answer": "CROSS",
+            "source": "wsj/2017"
+          },
+          {
+            "number": 4,
+            "text": "Plaza de toros",
+            "answer": "ARENA",
+            "source": "nyt/1977"
+          },
+          {
+            "number": 5,
+            "text": "Art class staple",
+            "answer": "PASTE",
+            "source": "wsj/2017"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Ache",
+            "answer": "CRAMP",
+            "source": "nyt/2006"
+          },
+          {
+            "number": 2,
+            "text": "Surpluses",
+            "answer": "OVERS",
+            "source": "nyt/1964"
+          },
+          {
+            "number": 3,
+            "text": "Gawk (at)",
+            "answer": "STARE",
+            "source": "nyt/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000074",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "BULBS",
+        "I#O#O",
+        "KNOWN",
+        "E#P#G",
+        "RISES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Buds of onions, lilies, etc.",
+            "answer": "BULBS",
+            "source": "nyt/1978"
+          },
+          {
+            "number": 4,
+            "text": "Not anonymous",
+            "answer": "KNOWN",
+            "source": "nyt/2017"
+          },
+          {
+            "number": 5,
+            "text": "Hills",
+            "answer": "RISES",
+            "source": "wsj/2010"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Certain exerciser",
+            "answer": "BIKER",
+            "source": "nyt/1988"
+          },
+          {
+            "number": 2,
+            "text": "More or less circular figures",
+            "answer": "LOOPS",
+            "source": "nyt/1957"
+          },
+          {
+            "number": 3,
+            "text": "Certain tracks",
+            "answer": "SONGS",
+            "source": "nyt/2014"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000075",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "BASED",
+        "A#T#A",
+        "SWORN",
+        "I#O#D",
+        "SILKY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Formed a foundation",
+            "answer": "BASED",
+            "source": "nyt/1987"
+          },
+          {
+            "number": 4,
+            "text": "Like trial testimony",
+            "answer": "SWORN",
+            "source": "wsj/2020"
+          },
+          {
+            "number": 5,
+            "text": "Sleek",
+            "answer": "SILKY",
+            "source": "nyt/1964"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Principal component",
+            "answer": "BASIS",
+            "source": "nyt/1980"
+          },
+          {
+            "number": 2,
+            "text": "Bar adjunct",
+            "answer": "STOOL",
+            "source": "nyt/1974"
+          },
+          {
+            "number": 3,
+            "text": "Coxcomb",
+            "answer": "DANDY",
+            "source": "nyt/1978"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000076",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "AMONG",
+        "R#R#A",
+        "ROBOT",
+        "O#I#E",
+        "WATTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "___ friends",
+            "answer": "AMONG",
+            "source": "nyt/2021"
+          },
+          {
+            "number": 4,
+            "text": "Capek creation",
+            "answer": "ROBOT",
+            "source": "nyt/1973"
+          },
+          {
+            "number": 5,
+            "text": "Volt-amperes",
+            "answer": "WATTS",
+            "source": "nyt/2021"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Traffic sign",
+            "answer": "ARROW",
+            "source": "nyt/1983"
+          },
+          {
+            "number": 2,
+            "text": "Round-the-world trip",
+            "answer": "ORBIT",
+            "source": "wsj/2025"
+          },
+          {
+            "number": 3,
+            "text": "Entrances",
+            "answer": "GATES",
+            "source": "nyt/1985"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000077",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 3,
+      "grid": [
+        "BOOMS",
+        "L#R#E",
+        "ARGUE",
+        "C#A#D",
+        "KINGS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Bullish times",
+            "answer": "BOOMS",
+            "source": "nyt/1982"
+          },
+          {
+            "number": 4,
+            "text": "Reason",
+            "answer": "ARGUE",
+            "source": "nys/2007"
+          },
+          {
+            "number": 5,
+            "text": "Biblical book",
+            "answer": "KINGS",
+            "source": "nyt/1963"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Night vision?",
+            "answer": "BLACK",
+            "source": "wsj/2014"
+          },
+          {
+            "number": 2,
+            "text": "Hymn player",
+            "answer": "ORGAN",
+            "source": "nyt/2022"
+          },
+          {
+            "number": 3,
+            "text": "Sources",
+            "answer": "SEEDS",
+            "source": "nyt/1971"
+          }
+        ]
+      },
+      "batch": "2026-09-27f"
+    },
+    {
+      "id": "p000078",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "NURSE",
+        "I#O#N",
+        "NIGHT",
+        "T#E#R",
+        "HARRY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Hospital employee",
+            "answer": "NURSE",
+            "source": "up/2017"
+          },
+          {
+            "number": 4,
+            "text": "Dusk to dawn",
+            "answer": "NIGHT",
+            "source": "up/2015"
+          },
+          {
+            "number": 5,
+            "text": "Wizard Potter",
+            "answer": "HARRY",
+            "source": "manual"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "After eighth",
+            "answer": "NINTH",
+            "source": "manual"
+          },
+          {
+            "number": 2,
+            "text": "\"Got it\"",
+            "answer": "ROGER",
+            "source": "usa/2020"
+          },
+          {
+            "number": 3,
+            "text": "Contest submission",
+            "answer": "ENTRY",
+            "source": "up/2026"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000079",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "KNIFE",
+        "I#N#S",
+        "NOTES",
+        "G#E#A",
+        "SILLY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Butter cutter",
+            "answer": "KNIFE",
+            "source": "up/2020"
+          },
+          {
+            "number": 4,
+            "text": "Memos",
+            "answer": "NOTES",
+            "source": "usa/2022"
+          },
+          {
+            "number": 5,
+            "text": "Frivolous",
+            "answer": "SILLY",
+            "source": "usa/1996"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Chess targets",
+            "answer": "KINGS",
+            "source": "usa/2004"
+          },
+          {
+            "number": 2,
+            "text": "Big name in chips",
+            "answer": "INTEL",
+            "source": "up/2023"
+          },
+          {
+            "number": 3,
+            "text": "Opinion piece",
+            "answer": "ESSAY",
+            "source": "up/2018"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000080",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "LIVER",
+        "I#I#A",
+        "MASON",
+        "I#I#G",
+        "TITLE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Largest human gland",
+            "answer": "LIVER",
+            "source": "usa/2015"
+          },
+          {
+            "number": 4,
+            "text": "Brick worker",
+            "answer": "MASON",
+            "source": "usa/2023"
+          },
+          {
+            "number": 5,
+            "text": "Championship",
+            "answer": "TITLE",
+            "source": "usa/2020"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Put a cap on",
+            "answer": "LIMIT",
+            "source": "up/2024"
+          },
+          {
+            "number": 2,
+            "text": "Drop in on",
+            "answer": "VISIT",
+            "source": "up/2019"
+          },
+          {
+            "number": 3,
+            "text": "Kitchen appliance",
+            "answer": "RANGE",
+            "source": "usa/2020"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000081",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "GUARD",
+        "I#U#R",
+        "VIDEO",
+        "E#I#P",
+        "NOTES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Museum worker",
+            "answer": "GUARD",
+            "source": "usa/2010"
+          },
+          {
+            "number": 4,
+            "text": "YouTube upload",
+            "answer": "VIDEO",
+            "source": "up/2023"
+          },
+          {
+            "number": 5,
+            "text": "Observes",
+            "answer": "NOTES",
+            "source": "usa/1996"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Established fact",
+            "answer": "GIVEN",
+            "source": "up/2022"
+          },
+          {
+            "number": 2,
+            "text": "Accounting inspection",
+            "answer": "AUDIT",
+            "source": "up/2014"
+          },
+          {
+            "number": 3,
+            "text": "Lets go of",
+            "answer": "DROPS",
+            "source": "up/2017"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000082",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "FORCE",
+        "I#A#D",
+        "LYING",
+        "E#S#E",
+        "SEEKS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Compel",
+            "answer": "FORCE",
+            "source": "up/2023"
+          },
+          {
+            "number": 4,
+            "text": "Telling fibs",
+            "answer": "LYING",
+            "source": "usa/2025"
+          },
+          {
+            "number": 5,
+            "text": "Looks for",
+            "answer": "SEEKS",
+            "source": "up/2025"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Office records",
+            "answer": "FILES",
+            "source": "up/2012"
+          },
+          {
+            "number": 2,
+            "text": "Salary increase",
+            "answer": "RAISE",
+            "source": "up/2025"
+          },
+          {
+            "number": 3,
+            "text": "Outer limits",
+            "answer": "EDGES",
+            "source": "usa/2025"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000083",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "UNDER",
+        "S#R#I",
+        "UNITS",
+        "A#N#K",
+        "LIKES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Below",
+            "answer": "UNDER",
+            "source": "up/2024"
+          },
+          {
+            "number": 4,
+            "text": "Military groups",
+            "answer": "UNITS",
+            "source": "usa/2011"
+          },
+          {
+            "number": 5,
+            "text": "Facebook approvals",
+            "answer": "LIKES",
+            "source": "usa/2019"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Run-of-the-mill",
+            "answer": "USUAL",
+            "source": "usa/2022"
+          },
+          {
+            "number": 2,
+            "text": "Beverage",
+            "answer": "DRINK",
+            "source": "manual"
+          },
+          {
+            "number": 3,
+            "text": "Puts on the line",
+            "answer": "RISKS",
+            "source": "usa/2025"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000084",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "FLOOD",
+        "L#F#I",
+        "ALTER",
+        "S#E#T",
+        "HONEY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Noah's challenge",
+            "answer": "FLOOD",
+            "source": "up/2014"
+          },
+          {
+            "number": 4,
+            "text": "Change",
+            "answer": "ALTER",
+            "source": "usa/2026"
+          },
+          {
+            "number": 5,
+            "text": "Beehive product",
+            "answer": "HONEY",
+            "source": "up/2024"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Burst of light",
+            "answer": "FLASH",
+            "source": "up/2025"
+          },
+          {
+            "number": 2,
+            "text": "Many times",
+            "answer": "OFTEN",
+            "source": "up/2019"
+          },
+          {
+            "number": 3,
+            "text": "Unclean",
+            "answer": "DIRTY",
+            "source": "usa/2020"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000085",
+      "rev": 1,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "BRUSH",
+        "R#P#A",
+        "INPUT",
+        "E#E#E",
+        "FARMS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Lint remover",
+            "answer": "BRUSH",
+            "source": "usa/2016"
+          },
+          {
+            "number": 4,
+            "text": "Computer data",
+            "answer": "INPUT",
+            "source": "usa/2016"
+          },
+          {
+            "number": 5,
+            "text": "Cultivates",
+            "answer": "FARMS",
+            "source": "up/2024"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Succinct",
+            "answer": "BRIEF",
+            "source": "up/2024"
+          },
+          {
+            "number": 2,
+            "text": "Higher",
+            "answer": "UPPER",
+            "source": "manual"
+          },
+          {
+            "number": 3,
+            "text": "Despises",
+            "answer": "HATES",
+            "source": "usa/2024"
+          }
+        ]
+      },
+      "batch": "2026-09-27g"
+    },
+    {
+      "id": "p000086",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "SEVERAL",
+        "U#A#E#E",
+        "COMPACT",
+        "C#P#S#T",
+        "EPISODE",
+        "E#R#N#R",
+        "DRESSES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "A few",
+            "answer": "SEVERAL",
+            "source": "up/2020"
+          },
+          {
+            "number": 5,
+            "text": "Small car",
+            "answer": "COMPACT",
+            "source": "cs/2010"
+          },
+          {
+            "number": 6,
+            "text": "Sitcom unit",
+            "answer": "EPISODE",
+            "source": "usa/2013"
+          },
+          {
+            "number": 7,
+            "text": "Attire",
+            "answer": "DRESSES",
+            "source": "usa/2001"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Go far in life",
+            "answer": "SUCCEED",
+            "source": "up/2021"
+          },
+          {
+            "number": 2,
+            "text": "Dracula, for one",
+            "answer": "VAMPIRE",
+            "source": "nw/2013"
+          },
+          {
+            "number": 3,
+            "text": "Uses judgment",
+            "answer": "REASONS",
+            "source": "usa/2013"
+          },
+          {
+            "number": 4,
+            "text": "A to Z, e.g.",
+            "answer": "LETTERS",
+            "source": "usa/2014"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000087",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "CREATES",
+        "A#X#R#U",
+        "REPAIRS",
+        "E#L#B#P",
+        "FEATURE",
+        "U#I#T#C",
+        "LONGEST"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Makes",
+            "answer": "CREATES",
+            "source": "up/2023"
+          },
+          {
+            "number": 5,
+            "text": "Handyman's chores",
+            "answer": "REPAIRS",
+            "source": "usa/2016"
+          },
+          {
+            "number": 6,
+            "text": "Full-length film",
+            "answer": "FEATURE",
+            "source": "up/2019"
+          },
+          {
+            "number": 7,
+            "text": "Most enduring",
+            "answer": "LONGEST",
+            "source": "up/2008"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Not reckless",
+            "answer": "CAREFUL",
+            "source": "up/2018"
+          },
+          {
+            "number": 2,
+            "text": "Make clear",
+            "answer": "EXPLAIN",
+            "source": "cs/1998"
+          },
+          {
+            "number": 3,
+            "text": "Homage",
+            "answer": "TRIBUTE",
+            "source": "usa/2020"
+          },
+          {
+            "number": 4,
+            "text": "Lineup member",
+            "answer": "SUSPECT",
+            "source": "lat/2007"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000088",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "INSECTS",
+        "N#T#H#Y",
+        "SERVERS",
+        "T#E#A#T",
+        "EXAMPLE",
+        "A#M#E#M",
+        "DESIRES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Bugs",
+            "answer": "INSECTS",
+            "source": "up/2017"
+          },
+          {
+            "number": 5,
+            "text": "Waiters",
+            "answer": "SERVERS",
+            "source": "usa/2014"
+          },
+          {
+            "number": 6,
+            "text": "You may set it",
+            "answer": "EXAMPLE",
+            "source": "up/2006"
+          },
+          {
+            "number": 7,
+            "text": "Wants",
+            "answer": "DESIRES",
+            "source": "up/2025"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Alternatively",
+            "answer": "INSTEAD",
+            "source": "usa/2024"
+          },
+          {
+            "number": 2,
+            "text": "Watches online",
+            "answer": "STREAMS",
+            "source": "usa/2020"
+          },
+          {
+            "number": 3,
+            "text": "Not as costly",
+            "answer": "CHEAPER",
+            "source": "usa/2008"
+          },
+          {
+            "number": 4,
+            "text": "Networks",
+            "answer": "SYSTEMS",
+            "source": "usa/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000089",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "OUTLETS",
+        "P#R#P#E",
+        "TRADING",
+        "I#I#S#M",
+        "CONSOLE",
+        "A#E#D#N",
+        "LARGEST"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Factory stores",
+            "answer": "OUTLETS",
+            "source": "usa/2022"
+          },
+          {
+            "number": 5,
+            "text": "Swapping",
+            "answer": "TRADING",
+            "source": "cht/1997"
+          },
+          {
+            "number": 6,
+            "text": "Instrument panel",
+            "answer": "CONSOLE",
+            "source": "up/2010"
+          },
+          {
+            "number": 7,
+            "text": "Jumbo size, usually",
+            "answer": "LARGEST",
+            "source": "up/2001"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Kind of illusion",
+            "answer": "OPTICAL",
+            "source": "up/2020"
+          },
+          {
+            "number": 2,
+            "text": "Fitness club worker",
+            "answer": "TRAINER",
+            "source": "usa/2019"
+          },
+          {
+            "number": 3,
+            "text": "Soap segment",
+            "answer": "EPISODE",
+            "source": "usa/2010"
+          },
+          {
+            "number": 4,
+            "text": "Portion",
+            "answer": "SEGMENT",
+            "source": "up/2011"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000090",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "VESSELS",
+        "E#T#N#Y",
+        "REACHES",
+        "D#R#A#T",
+        "INTENSE",
+        "C#E#C#M",
+        "TARGETS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Ships",
+            "answer": "VESSELS",
+            "source": "wap/1999"
+          },
+          {
+            "number": 5,
+            "text": "Makes it to",
+            "answer": "REACHES",
+            "source": "usa/2024"
+          },
+          {
+            "number": 6,
+            "text": "Concentrated",
+            "answer": "INTENSE",
+            "source": "usa/1995"
+          },
+          {
+            "number": 7,
+            "text": "Dartboards, e.g.",
+            "answer": "TARGETS",
+            "source": "usa/2008"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Jury's finding",
+            "answer": "VERDICT",
+            "source": "cht/2007"
+          },
+          {
+            "number": 2,
+            "text": "Appetizer",
+            "answer": "STARTER",
+            "source": "usa/2020"
+          },
+          {
+            "number": 3,
+            "text": "Intensify",
+            "answer": "ENHANCE",
+            "source": "usa/2000"
+          },
+          {
+            "number": 4,
+            "text": "Networks",
+            "answer": "SYSTEMS",
+            "source": "usa/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000091",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "DEGREES",
+        "O#R#P#Y",
+        "CREDITS",
+        "T#A#S#T",
+        "OUTCOME",
+        "R#E#D#M",
+        "SCREENS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Angle units",
+            "answer": "DEGREES",
+            "source": "up/2024"
+          },
+          {
+            "number": 5,
+            "text": "Film list",
+            "answer": "CREDITS",
+            "source": "usa/1997"
+          },
+          {
+            "number": 6,
+            "text": "End result",
+            "answer": "OUTCOME",
+            "source": "usa/2022"
+          },
+          {
+            "number": 7,
+            "text": "Movie theater needs",
+            "answer": "SCREENS",
+            "source": "up/2013"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Checkup performers",
+            "answer": "DOCTORS",
+            "source": "usa/2015"
+          },
+          {
+            "number": 2,
+            "text": "More important",
+            "answer": "GREATER",
+            "source": "nw/2005"
+          },
+          {
+            "number": 3,
+            "text": "TV installment",
+            "answer": "EPISODE",
+            "source": "up/2008"
+          },
+          {
+            "number": 4,
+            "text": "Networks",
+            "answer": "SYSTEMS",
+            "source": "usa/2022"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000092",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "CHANGES",
+        "H#F#A#U",
+        "EFFORTS",
+        "A#E#B#P",
+        "PACKAGE",
+        "E#T#G#C",
+        "RESPECT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Alters",
+            "answer": "CHANGES",
+            "source": "lat/1999"
+          },
+          {
+            "number": 5,
+            "text": "Serious attempts",
+            "answer": "EFFORTS",
+            "source": "lat/2020"
+          },
+          {
+            "number": 6,
+            "text": "Thing to track",
+            "answer": "PACKAGE",
+            "source": "up/2019"
+          },
+          {
+            "number": 7,
+            "text": "High esteem",
+            "answer": "RESPECT",
+            "source": "up/2020"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Not so dear",
+            "answer": "CHEAPER",
+            "source": "nw/2007"
+          },
+          {
+            "number": 2,
+            "text": "Influences",
+            "answer": "AFFECTS",
+            "source": "usa/2005"
+          },
+          {
+            "number": 3,
+            "text": "Refuse",
+            "answer": "GARBAGE",
+            "source": "lat/2019"
+          },
+          {
+            "number": 4,
+            "text": "Questionable",
+            "answer": "SUSPECT",
+            "source": "lat/2023"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000093",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "ISLANDS",
+        "M#E#E#I",
+        "PATTERN",
+        "O#T#D#G",
+        "SPECIAL",
+        "E#R#N#E",
+        "DESIGNS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Archipelago parts",
+            "answer": "ISLANDS",
+            "source": "manual"
+          },
+          {
+            "number": 5,
+            "text": "Dressmaker's aid",
+            "answer": "PATTERN",
+            "source": "usa/2017"
+          },
+          {
+            "number": 6,
+            "text": "Not just one of the crowd",
+            "answer": "SPECIAL",
+            "source": "up/2011"
+          },
+          {
+            "number": 7,
+            "text": "Plans",
+            "answer": "DESIGNS",
+            "source": "cs/2002"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Forced (upon)",
+            "answer": "IMPOSED",
+            "source": "wap/2022"
+          },
+          {
+            "number": 2,
+            "text": "Alphabet components",
+            "answer": "LETTERS",
+            "source": "usa/2015"
+          },
+          {
+            "number": 3,
+            "text": "Requiring",
+            "answer": "NEEDING",
+            "source": "nyt/1967"
+          },
+          {
+            "number": 4,
+            "text": "Unmarried people",
+            "answer": "SINGLES",
+            "source": "manual"
+          }
+        ]
+      },
+      "batch": "2026-09-27h"
+    },
+    {
+      "id": "p000094",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "LEGENDS",
+        "I#E#O#U",
+        "MINUTES",
+        "I#E#H#P",
+        "TURBINE",
+        "E#A#N#C",
+        "DELIGHT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Map features",
+            "answer": "LEGENDS",
+            "source": "nw/2008"
+          },
+          {
+            "number": 5,
+            "text": "They're taken at meetings",
+            "answer": "MINUTES",
+            "source": "slate/2024"
+          },
+          {
+            "number": 6,
+            "text": "Rotary engine",
+            "answer": "TURBINE",
+            "source": "cs/2014"
+          },
+          {
+            "number": 7,
+            "text": "Make happy",
+            "answer": "DELIGHT",
+            "source": "lat/2019"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Finite",
+            "answer": "LIMITED",
+            "source": "cht/1996"
+          },
+          {
+            "number": 2,
+            "text": "Vague",
+            "answer": "GENERAL",
+            "source": "slate/2024"
+          },
+          {
+            "number": 3,
+            "text": "Love, to Venus?",
+            "answer": "NOTHING",
+            "source": "avc/2015"
+          },
+          {
+            "number": 4,
+            "text": "Whodunit figure",
+            "answer": "SUSPECT",
+            "source": "che/2009"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000095",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "GROCERY",
+        "R#N#A#I",
+        "OVERSEE",
+        "U#S#T#L",
+        "PRETEND",
+        "E#L#R#E",
+        "DEFINED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Food store",
+            "answer": "GROCERY",
+            "source": "nw/2021"
+          },
+          {
+            "number": 5,
+            "text": "Supervise",
+            "answer": "OVERSEE",
+            "source": "manual"
+          },
+          {
+            "number": 6,
+            "text": "Sham",
+            "answer": "PRETEND",
+            "source": "cs/2003"
+          },
+          {
+            "number": 7,
+            "text": "Characterized",
+            "answer": "DEFINED",
+            "source": "cs/2001"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Assembled",
+            "answer": "GROUPED",
+            "source": "nyt/1946"
+          },
+          {
+            "number": 2,
+            "text": "Personal identity",
+            "answer": "ONESELF",
+            "source": "nw/2019"
+          },
+          {
+            "number": 3,
+            "text": "Toward the sunrise",
+            "answer": "EASTERN",
+            "source": "manual"
+          },
+          {
+            "number": 4,
+            "text": "Conceded",
+            "answer": "YIELDED",
+            "source": "nw/1999"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000096",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "DRAINED",
+        "E#T#E#R",
+        "FATIGUE",
+        "E#E#L#S",
+        "NUMBERS",
+        "S#P#C#E",
+        "ESTATES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Really tired",
+            "answer": "DRAINED",
+            "source": "lat/2004"
+          },
+          {
+            "number": 5,
+            "text": "Wear out",
+            "answer": "FATIGUE",
+            "source": "bg/2010"
+          },
+          {
+            "number": 6,
+            "text": "Figures",
+            "answer": "NUMBERS",
+            "source": "manual"
+          },
+          {
+            "number": 7,
+            "text": "Grand properties",
+            "answer": "ESTATES",
+            "source": "lat/2022"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "One side at a trial",
+            "answer": "DEFENSE",
+            "source": "nw/2020"
+          },
+          {
+            "number": 2,
+            "text": "Stab",
+            "answer": "ATTEMPT",
+            "source": "lat/2007"
+          },
+          {
+            "number": 3,
+            "text": "Omit",
+            "answer": "NEGLECT",
+            "source": "atc/2005"
+          },
+          {
+            "number": 4,
+            "text": "Goes formal",
+            "answer": "DRESSES",
+            "source": "wap/2006"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000097",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "EXPLOIT",
+        "X#H#F#A",
+        "CAREFUL",
+        "E#A#E#L",
+        "ESSENCE",
+        "D#E#S#S",
+        "SUSPECT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Take advantage of",
+            "answer": "EXPLOIT",
+            "source": "nw/2016"
+          },
+          {
+            "number": 5,
+            "text": "\"Watch out!\"",
+            "answer": "CAREFUL",
+            "source": "lat/2015"
+          },
+          {
+            "number": 6,
+            "text": "Intrinsic quality",
+            "answer": "ESSENCE",
+            "source": "cht/2008"
+          },
+          {
+            "number": 7,
+            "text": "Lineup member",
+            "answer": "SUSPECT",
+            "source": "lat/2007"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Goes overboard (on)",
+            "answer": "EXCEEDS",
+            "source": "beq/2017"
+          },
+          {
+            "number": 2,
+            "text": "Sentence sections",
+            "answer": "PHRASES",
+            "source": "lat/2016"
+          },
+          {
+            "number": 3,
+            "text": "Side with the ball",
+            "answer": "OFFENSE",
+            "source": "lat/2015"
+          },
+          {
+            "number": 4,
+            "text": "Topmost",
+            "answer": "TALLEST",
+            "source": "atc/2006"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000098",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "ANARCHY",
+        "S#M#H#O",
+        "PLATEAU",
+        "H#Z#M#N",
+        "ARISING",
+        "L#N#S#E",
+        "TIGHTER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Chaos",
+            "answer": "ANARCHY",
+            "source": "cs/2001"
+          },
+          {
+            "number": 5,
+            "text": "Tableland",
+            "answer": "PLATEAU",
+            "source": "pk/2013"
+          },
+          {
+            "number": 6,
+            "text": "Popping up",
+            "answer": "ARISING",
+            "source": "nw/2008"
+          },
+          {
+            "number": 7,
+            "text": "More like best buds",
+            "answer": "TIGHTER",
+            "source": "lat/2009"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Sidewalk surface",
+            "answer": "ASPHALT",
+            "source": "beq/2018"
+          },
+          {
+            "number": 2,
+            "text": "Hymn opener",
+            "answer": "AMAZING",
+            "source": "cc/0"
+          },
+          {
+            "number": 3,
+            "text": "Curie, for one",
+            "answer": "CHEMIST",
+            "source": "lat/1999"
+          },
+          {
+            "number": 4,
+            "text": "Less mature",
+            "answer": "YOUNGER",
+            "source": "cht/2007"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000099",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "MANAGER",
+        "A#A#A#E",
+        "RETAINS",
+        "C#U#N#P",
+        "HEROINE",
+        "E#A#N#C",
+        "DELIGHT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Supervisor",
+            "answer": "MANAGER",
+            "source": "lat/2023"
+          },
+          {
+            "number": 5,
+            "text": "Holds on to",
+            "answer": "RETAINS",
+            "source": "lat/2009"
+          },
+          {
+            "number": 6,
+            "text": "Jane Eyre, e.g.",
+            "answer": "HEROINE",
+            "source": "tny/2020"
+          },
+          {
+            "number": 7,
+            "text": "Tickle pink",
+            "answer": "DELIGHT",
+            "source": "lat/2010"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Kept pace in a drill",
+            "answer": "MARCHED",
+            "source": "nw/2020"
+          },
+          {
+            "number": 2,
+            "text": "Biological",
+            "answer": "NATURAL",
+            "source": "pi/2012"
+          },
+          {
+            "number": 3,
+            "text": "Opposite of losing, weightwise",
+            "answer": "GAINING",
+            "source": "lat/2020"
+          },
+          {
+            "number": 4,
+            "text": "Look up to",
+            "answer": "RESPECT",
+            "source": "nw/2015"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    },
+    {
+      "id": "p000100",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "BUFFALO",
+        "L#I#P#V",
+        "ECLIPSE",
+        "S#T#O#R",
+        "SPECIAL",
+        "E#R#N#A",
+        "DESKTOP"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Water ___",
+            "answer": "BUFFALO",
+            "source": "manual"
+          },
+          {
+            "number": 5,
+            "text": "Celestial event",
+            "answer": "ECLIPSE",
+            "source": "nw/2023"
+          },
+          {
+            "number": 6,
+            "text": "Out of the ordinary",
+            "answer": "SPECIAL",
+            "source": "nw/2023"
+          },
+          {
+            "number": 7,
+            "text": "Computer model",
+            "answer": "DESKTOP",
+            "source": "cht/2009"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Sanctified",
+            "answer": "BLESSED",
+            "source": "pk/2011"
+          },
+          {
+            "number": 2,
+            "text": "Instagram overlays",
+            "answer": "FILTERS",
+            "source": "lat/2020"
+          },
+          {
+            "number": 3,
+            "text": "Name",
+            "answer": "APPOINT",
+            "source": "ss/2004"
+          },
+          {
+            "number": 4,
+            "text": "Partly coincide",
+            "answer": "OVERLAP",
+            "source": "nw/2004"
+          }
+        ]
+      },
+      "batch": "2026-09-27i"
+    }
+  ]
+}
