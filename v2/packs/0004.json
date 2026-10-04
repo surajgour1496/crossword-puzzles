@@ -3,7 +3,7 @@
   "puzzles": [
     {
       "id": "p000151",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -24,95 +24,95 @@
         "across": [
           {
             "number": 1,
-            "text": "\"If all __ fails . . .\"",
+            "text": "Otherwise; if not ___",
             "answer": "ELSE",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Cut close",
+            "text": "Cut off the edges of a photo",
             "answer": "CROP",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Picturing in the mind",
+            "text": "Making pictures of the body, as with MRI",
             "answer": "IMAGING",
-            "source": "cs/2005"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Parent's girl",
+            "text": "Someone's girl",
             "answer": "DAUGHTER",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "Japanese dish",
+            "text": "Japanese dish of rice and raw fish",
             "answer": "SUSHI",
-            "source": "cs/2015"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "No-goodnik",
+            "text": "Sneaky person who informs on others",
             "answer": "RAT",
-            "source": "cs/2012"
+            "source": "plain/1"
           },
           {
             "number": 13,
-            "text": "Air, water, fire and earth",
+            "text": "Substances like oxygen and gold",
             "answer": "ELEMENTS",
-            "source": "atc/2005"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Take off",
+            "text": "Leave a room",
             "answer": "EXIT",
-            "source": "nw/2016"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Vacation spot",
+            "text": "Resort for massages and relaxing",
             "answer": "SPA",
-            "source": "nw/2009"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Appropriate",
+            "text": "Opposite of left",
             "answer": "RIGHT",
-            "source": "bg/2012"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Special-attention",
+            "text": "Right to go first",
             "answer": "PRIORITY",
-            "source": "nw/2017"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Identity-hiding garb",
+            "text": "Change one's look to avoid being known",
             "answer": "DISGUISE",
-            "source": "nw/2015"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Usher's milieu",
+            "text": "Walkway between rows of seats",
             "answer": "AISLE",
-            "source": "atc/2006"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Getaway spot",
+            "text": "Small island",
             "answer": "ISLE",
-            "source": "nw/2013"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Rubbish",
+            "text": "Spoil and break down",
             "answer": "ROT",
-            "source": "lat/2023"
+            "source": "plain/1"
           }
         ]
       },
@@ -120,7 +120,7 @@
     },
     {
       "id": "p000152",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -141,83 +141,83 @@
         "across": [
           {
             "number": 1,
-            "text": "Once-in-a-___",
+            "text": "All the years a person lives",
             "answer": "LIFETIME",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Court",
+            "text": "Love affair",
             "answer": "ROMANCE",
-            "source": "lat/2009"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Clickable computer image",
+            "text": "Famous person admired by many",
             "answer": "ICON",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Vacation spot",
+            "text": "Small island",
             "answer": "ISLE",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "Conceded",
+            "text": "Gave or allowed",
             "answer": "GRANTED",
-            "source": "atc/2006"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Blew up, as a balloon",
+            "text": "Raised too high, as prices",
             "answer": "INFLATED",
-            "source": "nw/2002"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "\"Check your local ___\"",
+            "text": "Entries in a directory",
             "answer": "LISTINGS",
-            "source": "tny/2020"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Cat coat",
+            "text": "Material for a warm winter coat",
             "answer": "FUR",
-            "source": "lat/2023"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Insipid",
+            "text": "Train a wild animal",
             "answer": "TAME",
-            "source": "nw/2022"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Mood",
+            "text": "Way of thinking",
             "answer": "MINDSET",
-            "source": "nw/2018"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Made a case for",
+            "text": "Spoke up for",
             "answer": "DEFENDED",
-            "source": "nw/2014"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Heart, e.g.",
+            "text": "Large keyboard instrument in a church",
             "answer": "ORGAN",
-            "source": "pk/2012"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Spoils",
+            "text": "Big take or loot",
             "answer": "HAUL",
-            "source": "lat/2024"
+            "source": "plain/1"
           }
         ]
       },

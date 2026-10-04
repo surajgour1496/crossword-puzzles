@@ -3,7 +3,7 @@
   "puzzles": [
     {
       "id": "p000001",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -20,41 +20,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Altar girl",
+            "text": "Woman on her wedding day",
             "answer": "BRIDE",
-            "source": "usa/1999"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Plus",
+            "text": "Valuable thing to have",
             "answer": "ASSET",
-            "source": "usa/2025"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "See-through",
+            "text": "See-through, like thin fabric",
             "answer": "SHEER",
-            "source": "usa/2025"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Orchestra section",
+            "text": "Yellow metal of copper and zinc",
             "answer": "BRASS",
-            "source": "usa/2013"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Debate topic",
+            "text": "Topic of debate",
             "answer": "ISSUE",
-            "source": "usa/2026"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Go in",
+            "text": "Come in",
             "answer": "ENTER",
-            "source": "usa/2026"
+            "source": "plain/1"
           }
         ]
       },
@@ -62,7 +62,7 @@
     },
     {
       "id": "p000002",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -81,39 +81,39 @@
             "number": 1,
             "text": "Mistake",
             "answer": "ERROR",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Nonconformist",
+            "text": "Fight against authority",
             "answer": "REBEL",
-            "source": "up/2012"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Clock parts",
+            "text": "Body parts with fingers",
             "answer": "HANDS",
-            "source": "up/2023"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Third rock from the sun",
+            "text": "The planet we live on",
             "answer": "EARTH",
-            "source": "usa/2015"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Harbinger of spring",
+            "text": "Red-breasted songbird",
             "answer": "ROBIN",
-            "source": "up/2005"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Moves on wheels",
+            "text": "Bakery buns served with dinner",
             "answer": "ROLLS",
-            "source": "up/2024"
+            "source": "plain/1"
           }
         ]
       },
@@ -121,7 +121,7 @@
     },
     {
       "id": "p000003",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -138,41 +138,41 @@
         "across": [
           {
             "number": 1,
-            "text": "\"Awesome!\"",
+            "text": "Wonderful",
             "answer": "GREAT",
-            "source": "usa/2025"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Things to put out",
+            "text": "Blazes",
             "answer": "FIRES",
-            "source": "up/2011"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Classifies",
+            "text": "Kinds or types",
             "answer": "SORTS",
-            "source": "up/1999"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Presents",
+            "text": "Birthday presents",
             "answer": "GIFTS",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Miscue",
+            "text": "Wrong answer in a calculation",
             "answer": "ERROR",
-            "source": "usa/2020"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "To-do list items",
+            "text": "Jobs to be done",
             "answer": "TASKS",
-            "source": "usa/2024"
+            "source": "plain/1"
           }
         ]
       },
@@ -180,7 +180,7 @@
     },
     {
       "id": "p000004",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -199,39 +199,39 @@
             "number": 1,
             "text": "Sofa",
             "answer": "COUCH",
-            "source": "usa/2025"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Sports venue",
+            "text": "Large stadium for sports",
             "answer": "ARENA",
-            "source": "usa/2026"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Party givers",
+            "text": "Party throwers who greet the guests",
             "answer": "HOSTS",
-            "source": "up/2007"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Private tutor",
+            "text": "Team trainer",
             "answer": "COACH",
-            "source": "usa/2013"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Computer operators",
+            "text": "People who operate a service",
             "answer": "USERS",
-            "source": "usa/2026"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Coin flip call",
+            "text": "Side of a coin with a face",
             "answer": "HEADS",
-            "source": "usa/2020"
+            "source": "plain/1"
           }
         ]
       },
@@ -239,7 +239,7 @@
     },
     {
       "id": "p000005",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -256,41 +256,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Wedding rings",
+            "text": "Groups of musicians",
             "answer": "BANDS",
-            "source": "usa/2013"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Work of fiction",
+            "text": "Book-length story",
             "answer": "NOVEL",
-            "source": "up/2021"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Vends",
+            "text": "Trades goods for money",
             "answer": "SELLS",
-            "source": "usa/2022"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Moneylenders",
+            "text": "Places to deposit your paycheck",
             "answer": "BANKS",
-            "source": "up/2014"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Ship-related",
+            "text": "Relating to a country's warships",
             "answer": "NAVAL",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Business department",
+            "text": "Store discount events",
             "answer": "SALES",
-            "source": "up/2015"
+            "source": "plain/1"
           }
         ]
       },
@@ -298,7 +298,7 @@
     },
     {
       "id": "p000006",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -315,41 +315,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Coastline",
+            "text": "Land beside the sea",
             "answer": "SHORE",
-            "source": "up/2020"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Go in",
+            "text": "Type into a computer",
             "answer": "ENTER",
-            "source": "usa/2026"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Trivial",
+            "text": "Not very important",
             "answer": "MINOR",
-            "source": "up/2015"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Water vapor",
+            "text": "Hot vapor from boiling water",
             "answer": "STEAM",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 2,
             "text": "Frequently",
             "answer": "OFTEN",
-            "source": "up/2026"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Blunder",
+            "text": "Mistake",
             "answer": "ERROR",
-            "source": "up/2026"
+            "source": "plain/1"
           }
         ]
       },
@@ -357,7 +357,7 @@
     },
     {
       "id": "p000007",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -374,41 +374,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Water holes",
+            "text": "Holes dug for water",
             "answer": "WELLS",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "True",
+            "text": "Faithful to friends",
             "answer": "LOYAL",
-            "source": "usa/1996"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Out of ___",
+            "text": "Arranges into groups",
             "answer": "SORTS",
-            "source": "usa/2003"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Takes a stroll",
+            "text": "Goes on foot",
             "answer": "WALKS",
-            "source": "usa/2021"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Cake part",
+            "text": "One level in a cake",
             "answer": "LAYER",
-            "source": "up/2014"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Corporate department",
+            "text": "Money-making business department",
             "answer": "SALES",
-            "source": "usa/2015"
+            "source": "plain/1"
           }
         ]
       },
@@ -416,7 +416,7 @@
     },
     {
       "id": "p000008",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -433,41 +433,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Area of expertise",
+            "text": "Open grassy area",
             "answer": "FIELD",
-            "source": "up/2015"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Chain of hills",
+            "text": "Long narrow top of a mountain",
             "answer": "RIDGE",
-            "source": "usa/2007"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Kinds",
+            "text": "Kinds or types",
             "answer": "SORTS",
-            "source": "up/2018"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Conflagrations",
+            "text": "Dismisses from a job",
             "answer": "FIRES",
-            "source": "up/2010"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Church officer",
+            "text": "Older person in a community",
             "answer": "ELDER",
-            "source": "usa/2007"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Kind of code",
+            "text": "One-piece garment for women",
             "answer": "DRESS",
-            "source": "up/2010"
+            "source": "plain/1"
           }
         ]
       },
@@ -475,7 +475,7 @@
     },
     {
       "id": "p000009",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -492,41 +492,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Sun block?",
+            "text": "White puffy thing in the sky",
             "answer": "CLOUD",
-            "source": "up/2015"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Video's counterpart",
+            "text": "Sound, as opposed to video",
             "answer": "AUDIO",
-            "source": "usa/2026"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Number of Little Pigs",
+            "text": "Number after two",
             "answer": "THREE",
-            "source": "usa/2015"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Glide",
+            "text": "Land beside the sea",
             "answer": "COAST",
-            "source": "up/2011"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Command",
+            "text": "Command or instruction",
             "answer": "ORDER",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Pilotless plane",
+            "text": "Remote-controlled flying device",
             "answer": "DRONE",
-            "source": "up/2004"
+            "source": "plain/1"
           }
         ]
       },
@@ -534,7 +534,7 @@
     },
     {
       "id": "p000010",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -551,41 +551,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Beginning",
+            "text": "Moment a baby comes into the world",
             "answer": "BIRTH",
-            "source": "usa/1998"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Deed holder",
+            "text": "Person who has something as property",
             "answer": "OWNER",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Foul",
+            "text": "Very unpleasant",
             "answer": "NASTY",
-            "source": "up/2019"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Chocolate color",
+            "text": "Color of chocolate",
             "answer": "BROWN",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Saturn features",
+            "text": "Finger jewelry",
             "answer": "RINGS",
-            "source": "usa/2023"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Wizard Potter",
+            "text": "Prince William's brother",
             "answer": "HARRY",
-            "source": "manual"
+            "source": "plain/1"
           }
         ]
       },
@@ -593,7 +593,7 @@
     },
     {
       "id": "p000011",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -610,41 +610,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Tunes",
+            "text": "Tunes with lyrics",
             "answer": "SONGS",
-            "source": "usa/1999"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Held dear",
+            "text": "Adored",
             "answer": "LOVED",
-            "source": "usa/2016"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Lefts and rights",
+            "text": "Rotates",
             "answer": "TURNS",
-            "source": "up/2016"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Divvy up",
+            "text": "Break in two",
             "answer": "SPLIT",
-            "source": "up/2022"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "At no time",
+            "text": "Not at any time",
             "answer": "NEVER",
-            "source": "usa/2004"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Contesting teams",
+            "text": "Left and right, for example",
             "answer": "SIDES",
-            "source": "up/2006"
+            "source": "plain/1"
           }
         ]
       },
@@ -652,7 +652,7 @@
     },
     {
       "id": "p000012",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -669,41 +669,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Socked away",
+            "text": "Rescued",
             "answer": "SAVED",
-            "source": "usa/2018"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Bonus",
+            "text": "More than usual",
             "answer": "EXTRA",
-            "source": "up/2022"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "\"West Side Story\" girl",
+            "text": "Girl's name in West Side Story",
             "answer": "MARIA",
-            "source": "up/2014"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Iron output",
+            "text": "Cook over boiling water",
             "answer": "STEAM",
-            "source": "usa/2010"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Candidate's target",
+            "text": "Person who casts a ballot",
             "answer": "VOTER",
-            "source": "usa/2011"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Serious play",
+            "text": "Serious play or TV show",
             "answer": "DRAMA",
-            "source": "up/2023"
+            "source": "plain/1"
           }
         ]
       },
@@ -711,7 +711,7 @@
     },
     {
       "id": "p000013",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -728,41 +728,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Preferences",
+            "text": "Enjoys",
             "answer": "LIKES",
-            "source": "up/2004"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Inexpensive",
+            "text": "Low in price",
             "answer": "CHEAP",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Short-straw drawer",
+            "text": "One who does not win",
             "answer": "LOSER",
-            "source": "up/2010"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "In the neighborhood",
+            "text": "From the neighborhood",
             "answer": "LOCAL",
-            "source": "usa/2016"
+            "source": "plain/1"
           },
           {
             "number": 2,
             "text": "Leg joints",
             "answer": "KNEES",
-            "source": "up/2020"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "\"Great!\"",
+            "text": "Great or excellent",
             "answer": "SUPER",
-            "source": "usa/2016"
+            "source": "plain/1"
           }
         ]
       },
@@ -770,7 +770,7 @@
     },
     {
       "id": "p000014",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -787,41 +787,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Chapter's partner",
+            "text": "Line or stanza of a poem",
             "answer": "VERSE",
-            "source": "up/2009"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Spent",
+            "text": "Ready for sleep",
             "answer": "TIRED",
-            "source": "usa/2006"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Held sway",
+            "text": "Governed as king or queen",
             "answer": "RULED",
-            "source": "usa/2019"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Ballot caster",
+            "text": "Citizen at the polls",
             "answer": "VOTER",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Pastoral",
+            "text": "Of the countryside",
             "answer": "RURAL",
-            "source": "up/2011"
+            "source": "plain/1"
           },
           {
             "number": 3,
             "text": "Finished",
             "answer": "ENDED",
-            "source": "up/2024"
+            "source": "plain/1"
           }
         ]
       },
@@ -829,7 +829,7 @@
     },
     {
       "id": "p000015",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 5,
         "height": 5
@@ -846,41 +846,41 @@
         "across": [
           {
             "number": 1,
-            "text": "Queued (up)",
+            "text": "Having thin marks, like notebook paper",
             "answer": "LINED",
-            "source": "up/2019"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Not even once",
+            "text": "At no time whatsoever",
             "answer": "NEVER",
-            "source": "usa/2023"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Inane",
+            "text": "Goofy and playful",
             "answer": "SILLY",
-            "source": "up/2018"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Comes down to earth",
+            "text": "Countries or territories",
             "answer": "LANDS",
-            "source": "up/2019"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "New",
+            "text": "New and original",
             "answer": "NOVEL",
-            "source": "usa/2002"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Famous horse race",
+            "text": "Famous horse race in Kentucky",
             "answer": "DERBY",
-            "source": "manual"
+            "source": "plain/1"
           }
         ]
       },
@@ -888,7 +888,7 @@
     },
     {
       "id": "p000016",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -909,51 +909,51 @@
             "number": 1,
             "text": "School after high school",
             "answer": "COLLEGE",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Watch",
+            "text": "Watch carefully",
             "answer": "OBSERVE",
-            "source": "usa/2006"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Display",
+            "text": "One screening of a movie",
             "answer": "SHOWING",
-            "source": "nyt/1972"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Wanted",
+            "text": "Wanted badly",
             "answer": "DESIRED",
-            "source": "pk/2011"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Spanned",
+            "text": "Went to the other side",
             "answer": "CROSSED",
-            "source": "cht/2009"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Learning experiences",
+            "text": "Classes with a teacher",
             "answer": "LESSONS",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 3,
             "text": "Before now",
             "answer": "EARLIER",
-            "source": "up/2022"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Came forth",
+            "text": "Came out into view",
             "answer": "EMERGED",
-            "source": "usa/2007"
+            "source": "plain/1"
           }
         ]
       },
@@ -961,7 +961,7 @@
     },
     {
       "id": "p000017",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -980,53 +980,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Kind of power plant",
+            "text": "Relating to atomic energy",
             "answer": "NUCLEAR",
-            "source": "up/2003"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "School subject",
+            "text": "Looking at a book's words",
             "answer": "READING",
-            "source": "pk/2003"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Open-air",
+            "text": "Done outside",
             "answer": "OUTDOOR",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Bug barriers",
+            "text": "Displays on phones and TVs",
             "answer": "SCREENS",
-            "source": "usa/2012"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "On edge",
+            "text": "Anxious and jittery",
             "answer": "NERVOUS",
-            "source": "lat/2019"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Book unit",
+            "text": "Section of a book",
             "answer": "CHAPTER",
-            "source": "pk/2006"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Serial segment",
+            "text": "One show in a TV series",
             "answer": "EPISODE",
-            "source": "usa/2001"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Best wishes",
+            "text": "Friendly wishes at a letter's end",
             "answer": "REGARDS",
-            "source": "usa/2004"
+            "source": "plain/1"
           }
         ]
       },
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "p000018",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1053,27 +1053,27 @@
         "across": [
           {
             "number": 1,
-            "text": "Adore",
+            "text": "Show deep religious devotion",
             "answer": "WORSHIP",
-            "source": "nyt/2012"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Stern talking to",
+            "text": "Talk given to a class",
             "answer": "LECTURE",
-            "source": "up/2001"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Beginnings",
+            "text": "Beginnings or sources",
             "answer": "ORIGINS",
-            "source": "up/2003"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Surfaced",
+            "text": "Appeared from hiding",
             "answer": "EMERGED",
-            "source": "usa/2009"
+            "source": "plain/1"
           }
         ],
         "down": [
@@ -1081,25 +1081,25 @@
             "number": 1,
             "text": "Greet warmly",
             "answer": "WELCOME",
-            "source": "up/2022"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Get, like a package",
+            "text": "Get something sent to you",
             "answer": "RECEIVE",
-            "source": "usa/2023"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Shelter",
+            "text": "Homes and places to live",
             "answer": "HOUSING",
-            "source": "nyt/1957"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Content",
+            "text": "Happy about something",
             "answer": "PLEASED",
-            "source": "up/2015"
+            "source": "plain/1"
           }
         ]
       },
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "p000019",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1126,53 +1126,53 @@
         "across": [
           {
             "number": 1,
-            "text": "They're cast by the sun",
+            "text": "Dark shapes cast by objects",
             "answer": "SHADOWS",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Eternal",
+            "text": "Without limit",
             "answer": "ENDLESS",
-            "source": "up/2026"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Exact",
+            "text": "Exact and accurate",
             "answer": "PRECISE",
-            "source": "usa/2021"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Blueprints",
+            "text": "Plans for how things look",
             "answer": "DESIGNS",
-            "source": "up/2023"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Walked",
+            "text": "Took a stride",
             "answer": "STEPPED",
-            "source": "usa/1996"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Speech",
+            "text": "Where you live, on an envelope",
             "answer": "ADDRESS",
-            "source": "usa/2001"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Available job",
+            "text": "Gap or hole",
             "answer": "OPENING",
-            "source": "usa/2009"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Orderly methods",
+            "text": "Organized sets of parts working together",
             "answer": "SYSTEMS",
-            "source": "usa/2015"
+            "source": "plain/1"
           }
         ]
       },
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "p000020",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1199,53 +1199,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Status while an app starts up",
+            "text": "Putting cargo on",
             "answer": "LOADING",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Welcomed to the family",
+            "text": "Taken in as one's own child",
             "answer": "ADOPTED",
-            "source": "usa/2022"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Improve",
+            "text": "Make better",
             "answer": "ENHANCE",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Polls",
+            "text": "Sets of questions asked of many people",
             "answer": "SURVEYS",
-            "source": "nw/2005"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Heads",
+            "text": "People in charge of groups",
             "answer": "LEADERS",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 2,
             "text": "One more",
             "answer": "ANOTHER",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Strong",
+            "text": "Very strong or extreme",
             "answer": "INTENSE",
-            "source": "up/2025"
+            "source": "plain/1"
           },
           {
             "number": 4,
             "text": "Female deity",
             "answer": "GODDESS",
-            "source": "manual"
+            "source": "plain/1"
           }
         ]
       },
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "p000021",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1272,27 +1272,27 @@
         "across": [
           {
             "number": 1,
-            "text": "Proposed",
+            "text": "Held out for someone to take",
             "answer": "OFFERED",
-            "source": "cht/1997"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Dangers",
+            "text": "Warnings of harm to come",
             "answer": "THREATS",
-            "source": "usa/2021"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Starting sequence of chess moves",
+            "text": "Beginning part",
             "answer": "OPENING",
-            "source": "usa/2022"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Venus and Serena, e.g.",
+            "text": "Female siblings",
             "answer": "SISTERS",
-            "source": "usa/2020"
+            "source": "plain/1"
           }
         ],
         "down": [
@@ -1300,25 +1300,25 @@
             "number": 1,
             "text": "Choices",
             "answer": "OPTIONS",
-            "source": "usa/2005"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "___ market",
+            "text": "People who grow our crops",
             "answer": "FARMERS",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Understand",
+            "text": "Suddenly understand",
             "answer": "REALIZE",
-            "source": "up/2019"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Decorative patterns",
+            "text": "Patterns on fabric",
             "answer": "DESIGNS",
-            "source": "usa/2024"
+            "source": "plain/1"
           }
         ]
       },
@@ -1326,7 +1326,7 @@
     },
     {
       "id": "p000022",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1345,53 +1345,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Worked out in advance",
+            "text": "Thought out ahead of time",
             "answer": "PLANNED",
-            "source": "up/2011"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Focus of military science",
+            "text": "Fighting between armies",
             "answer": "WARFARE",
-            "source": "usa/2003"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Critics' writeups",
+            "text": "Critics' opinions",
             "answer": "REVIEWS",
-            "source": "usa/2019"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Wiped off the computer",
+            "text": "Erased",
             "answer": "DELETED",
-            "source": "up/2011"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Motorized",
+            "text": "Supplied with energy to run",
             "answer": "POWERED",
-            "source": "cht/2009"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Late ___",
+            "text": "Coming to a place",
             "answer": "ARRIVAL",
-            "source": "usa/2001"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Least remote",
+            "text": "Closest",
             "answer": "NEAREST",
-            "source": "up/2022"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Adorned",
+            "text": "Wearing clothes",
             "answer": "DRESSED",
-            "source": "up/2004"
+            "source": "plain/1"
           }
         ]
       },
@@ -1399,7 +1399,7 @@
     },
     {
       "id": "p000023",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1418,53 +1418,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Make good as new",
+            "text": "Bring back to original condition",
             "answer": "RESTORE",
-            "source": "usa/2019"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "State one's views",
+            "text": "Remark",
             "answer": "COMMENT",
-            "source": "nw/2004"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Hamlet",
+            "text": "Small town in the country",
             "answer": "VILLAGE",
-            "source": "usa/2007"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Fixed purpose",
+            "text": "Firm determination",
             "answer": "RESOLVE",
-            "source": "up/2001"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Get back to normal",
+            "text": "Get well after being sick",
             "answer": "RECOVER",
-            "source": "usa/2018"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Store freebies",
+            "text": "Free small tastes at a store",
             "answer": "SAMPLES",
-            "source": "usa/2016"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Including everything",
+            "text": "In general; taking everything into account",
             "answer": "OVERALL",
-            "source": "up/2010"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Drastic",
+            "text": "Very intense or severe",
             "answer": "EXTREME",
-            "source": "usa/1997"
+            "source": "plain/1"
           }
         ]
       },
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "p000024",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1491,53 +1491,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Business",
+            "text": "Personal business matters",
             "answer": "AFFAIRS",
-            "source": "usa/1996"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Zeroes in",
+            "text": "Pays close attention",
             "answer": "FOCUSES",
-            "source": "bg/2011"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Meteorological conditions",
+            "text": "Typical weather of a region over years",
             "answer": "CLIMATE",
-            "source": "usa/2012"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "___ bar",
+            "text": "Unmarried people",
             "answer": "SINGLES",
-            "source": "pi/2010"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Has an emotional impact on",
+            "text": "Influences",
             "answer": "AFFECTS",
-            "source": "usa/2016"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Imagined story",
+            "text": "Made-up stories",
             "answer": "FICTION",
-            "source": "wap/1997"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Set up software",
+            "text": "Set up for use",
             "answer": "INSTALL",
-            "source": "up/2018"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Venus and Serena, e.g.",
+            "text": "Nuns",
             "answer": "SISTERS",
-            "source": "usa/2020"
+            "source": "plain/1"
           }
         ]
       },
@@ -1545,7 +1545,7 @@
     },
     {
       "id": "p000025",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1564,53 +1564,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Eternally",
+            "text": "For all time",
             "answer": "FOREVER",
-            "source": "up/2013"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Puts in the middle",
+            "text": "Middle points",
             "answer": "CENTERS",
-            "source": "up/2015"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Featured dish",
+            "text": "Out of the ordinary",
             "answer": "SPECIAL",
-            "source": "usa/2020"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Architects' works",
+            "text": "Plans for how things look",
             "answer": "DESIGNS",
-            "source": "up/2014"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Zeroed in",
+            "text": "Paying close attention",
             "answer": "FOCUSED",
-            "source": "usa/2011"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Woodland guardians",
+            "text": "Park officials in uniform",
             "answer": "RANGERS",
-            "source": "usa/1995"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Taking in",
+            "text": "Watching a show or film",
             "answer": "VIEWING",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Effects",
+            "text": "Outcomes of a test or race",
             "answer": "RESULTS",
-            "source": "usa/2015"
+            "source": "plain/1"
           }
         ]
       },
@@ -1618,7 +1618,7 @@
     },
     {
       "id": "p000026",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1637,53 +1637,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Morphed",
+            "text": "Became different",
             "answer": "CHANGED",
-            "source": "lat/2003"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Gets the phone",
+            "text": "Replies to questions",
             "answer": "ANSWERS",
-            "source": "usa/2004"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Supervise",
+            "text": "Computer screen",
             "answer": "MONITOR",
-            "source": "usa/2003"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Behind schedule",
+            "text": "Made late",
             "answer": "DELAYED",
-            "source": "usa/2013"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Picked up one's baggage",
+            "text": "Stated as true",
             "answer": "CLAIMED",
-            "source": "usa/2005"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Weapons depot",
+            "text": "Large stock of weapons",
             "answer": "ARSENAL",
-            "source": "usa/2014"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "In a big way",
+            "text": "Very much",
             "answer": "GREATLY",
-            "source": "usa/2015"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Had a hankering for",
+            "text": "Wished for",
             "answer": "DESIRED",
-            "source": "usa/2001"
+            "source": "plain/1"
           }
         ]
       },
@@ -1691,7 +1691,7 @@
     },
     {
       "id": "p000027",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1710,53 +1710,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Videos, for a TikToker",
+            "text": "Happy and satisfied",
             "answer": "CONTENT",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Excessive",
+            "text": "Far from moderate",
             "answer": "EXTREME",
-            "source": "up/2003"
+            "source": "plain/1"
           },
           {
             "number": 6,
             "text": "One part in a hundred",
             "answer": "PERCENT",
-            "source": "up/2005"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Akin",
+            "text": "Belonging to the same family",
             "answer": "RELATED",
-            "source": "usa/2012"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Less expensive",
+            "text": "Costing less",
             "answer": "CHEAPER",
-            "source": "up/2024"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Instinctive",
+            "text": "Not artificial",
             "answer": "NATURAL",
-            "source": "up/2020"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Periodic table entry",
+            "text": "Basic part of something",
             "answer": "ELEMENT",
-            "source": "up/2011"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Made chirping sounds",
+            "text": "Posted a short online message",
             "answer": "TWEETED",
-            "source": "usa/2020"
+            "source": "plain/1"
           }
         ]
       },
@@ -1764,7 +1764,7 @@
     },
     {
       "id": "p000028",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1783,53 +1783,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Computed",
+            "text": "Worked out or concluded",
             "answer": "FIGURED",
-            "source": "nyt/1985"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "They're picked from",
+            "text": "Options to pick from",
             "answer": "CHOICES",
-            "source": "up/2018"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Carrying a tune",
+            "text": "Performing songs aloud",
             "answer": "SINGING",
-            "source": "cht/2006"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Methods",
+            "text": "Networks of connected parts",
             "answer": "SYSTEMS",
-            "source": "usa/2023"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Zeroes in (on)",
+            "text": "Makes a lens image sharp",
             "answer": "FOCUSES",
-            "source": "nyt/1995"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Coffee maker debris",
+            "text": "Land around a building",
             "answer": "GROUNDS",
-            "source": "usa/2002"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Get, like a package",
+            "text": "Welcome a guest",
             "answer": "RECEIVE",
-            "source": "usa/2023"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Blueprints",
+            "text": "Plans for how things look",
             "answer": "DESIGNS",
-            "source": "up/2023"
+            "source": "plain/1"
           }
         ]
       },
@@ -1837,7 +1837,7 @@
     },
     {
       "id": "p000029",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1856,53 +1856,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Backdrop",
+            "text": "Where a story takes place",
             "answer": "SETTING",
-            "source": "lat/2020"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Exchange need",
+            "text": "Paper proving you paid",
             "answer": "RECEIPT",
-            "source": "lat/2022"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Trailer, e.g.",
+            "text": "Sneak peek",
             "answer": "PREVIEW",
-            "source": "7xw/2021"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Make visible",
+            "text": "Show off",
             "answer": "DISPLAY",
-            "source": "nw/2014"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Zebralike",
+            "text": "Like a zebra's coat",
             "answer": "STRIPED",
-            "source": "nw/2014"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Box office buys",
+            "text": "Fines for speeding",
             "answer": "TICKETS",
-            "source": "nw/2015"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Monogram part",
+            "text": "Letter that starts a name",
             "answer": "INITIAL",
-            "source": "lat/2022"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Con's coup",
+            "text": "Escape by criminals",
             "answer": "GETAWAY",
-            "source": "lat/2004"
+            "source": "plain/1"
           }
         ]
       },
@@ -1910,7 +1910,7 @@
     },
     {
       "id": "p000030",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -1929,53 +1929,53 @@
         "across": [
           {
             "number": 1,
-            "text": "One following general directions?",
+            "text": "Not open to the public",
             "answer": "PRIVATE",
-            "source": "tny/2020"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Realize",
+            "text": "Succeed in reaching a goal",
             "answer": "ACHIEVE",
-            "source": "lat/2026"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Barbecue spot",
+            "text": "Flat step cut into a hillside",
             "answer": "TERRACE",
-            "source": "lat/2022"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Turn tail",
+            "text": "Back away from danger",
             "answer": "RETREAT",
-            "source": "atc/2006"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Cast material",
+            "text": "Cover thickly",
             "answer": "PLASTER",
-            "source": "nw/2017"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Be willed",
+            "text": "Get traits from your parents",
             "answer": "INHERIT",
-            "source": "bg/2013"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Typical",
+            "text": "Typical or ordinary",
             "answer": "AVERAGE",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Constituent",
+            "text": "Chemical like oxygen or gold",
             "answer": "ELEMENT",
-            "source": "nw/2013"
+            "source": "plain/1"
           }
         ]
       },
@@ -1983,7 +1983,7 @@
     },
     {
       "id": "p000031",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2002,53 +2002,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Goal of regular exercise",
+            "text": "Gym goal",
             "answer": "FITNESS",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "First-string player",
+            "text": "Appetizer before the main course",
             "answer": "STARTER",
-            "source": "pi/2014"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Hook up",
+            "text": "Put in place, like software",
             "answer": "INSTALL",
-            "source": "pi/2009"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "They get left behind",
+            "text": "Everything people leave behind at death",
             "answer": "ESTATES",
-            "source": "cs/2009"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "In party mode",
+            "text": "Cheerful and holiday-like",
             "answer": "FESTIVE",
-            "source": "pi/2010"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "It may be rapid",
+            "text": "Passage from one place to another",
             "answer": "TRANSIT",
-            "source": "lat/2013"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Concentrated essence in a bottle",
+            "text": "Pull out, as a tooth",
             "answer": "EXTRACT",
-            "source": "nw/2019"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "More than what's needed",
+            "text": "Extra amount left over",
             "answer": "SURPLUS",
-            "source": "lat/2006"
+            "source": "plain/1"
           }
         ]
       },
@@ -2056,7 +2056,7 @@
     },
     {
       "id": "p000032",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2075,53 +2075,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Finality",
+            "text": "Shutting down of a business",
             "answer": "CLOSURE",
-            "source": "beq/2016"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Green gem",
+            "text": "Green gemstone",
             "answer": "EMERALD",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Nylon, for one",
+            "text": "Plastic or nylon, for example",
             "answer": "POLYMER",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "On the double",
+            "text": "Very quickly",
             "answer": "RAPIDLY",
-            "source": "atc/2005"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Comparatively flimsy",
+            "text": "More affordable",
             "answer": "CHEAPER",
-            "source": "nw/2003"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Commonality",
+            "text": "Partly cover, like roof shingles",
             "answer": "OVERLAP",
-            "source": "cs/2012"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Weaponless",
+            "text": "Without a gun or knife",
             "answer": "UNARMED",
-            "source": "tny/2023"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Getting on in years",
+            "text": "Old, as a person",
             "answer": "ELDERLY",
-            "source": "lat/2017"
+            "source": "plain/1"
           }
         ]
       },
@@ -2129,7 +2129,7 @@
     },
     {
       "id": "p000033",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2148,53 +2148,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Cutting-edge professional?",
+            "text": "Medical specialist in the operating room",
             "answer": "SURGEON",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Like the Parthenon",
+            "text": "Very, very old",
             "answer": "ANCIENT",
-            "source": "lat/2011"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Cyclone",
+            "text": "Funnel-shaped storm that destroys homes",
             "answer": "TORNADO",
-            "source": "pk/2013"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Lodges",
+            "text": "Has a home at",
             "answer": "RESIDES",
-            "source": "nw/2008"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "More clever",
+            "text": "Wiser",
             "answer": "SMARTER",
-            "source": "nw/2021"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Almanac entries",
+            "text": "Vinyl discs played on a turntable",
             "answer": "RECORDS",
-            "source": "nw/2007"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Shade of green",
+            "text": "Deep green color",
             "answer": "EMERALD",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "United ___",
+            "text": "Countries of the world",
             "answer": "NATIONS",
-            "source": "cht/1995"
+            "source": "plain/1"
           }
         ]
       },
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "p000034",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2221,53 +2221,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Found out",
+            "text": "Picked up knowledge",
             "answer": "LEARNED",
-            "source": "lat/2012"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Fruits sold by the pint",
+            "text": "Blue, black, and straw fruits",
             "answer": "BERRIES",
-            "source": "atc/2005"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Classroom figure",
+            "text": "Classroom leader",
             "answer": "TEACHER",
-            "source": "cs/2000"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Book",
+            "text": "Keep for later use",
             "answer": "RESERVE",
-            "source": "atc/2003"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Crab cousin",
+            "text": "Shellfish boiled alive",
             "answer": "LOBSTER",
-            "source": "nw/2005"
+            "source": "plain/1"
           },
           {
             "number": 2,
             "text": "Breathing passages",
             "answer": "AIRWAYS",
-            "source": "nw/2021"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "\"I choose not to choose!\"",
+            "text": "Not this one and not that one",
             "answer": "NEITHER",
-            "source": "che/2013"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Rate",
+            "text": "Be worthy of",
             "answer": "DESERVE",
-            "source": "cc/0"
+            "source": "plain/1"
           }
         ]
       },
@@ -2275,7 +2275,7 @@
     },
     {
       "id": "p000035",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2294,53 +2294,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Dazzle",
+            "text": "Wow someone",
             "answer": "IMPRESS",
-            "source": "lat/2023"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Severe",
+            "text": "Very big, as a change",
             "answer": "DRASTIC",
-            "source": "cs/2012"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Campground illuminator",
+            "text": "Portable light with a glass case",
             "answer": "LANTERN",
-            "source": "tny/2021"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Unceasing",
+            "text": "Going on forever",
             "answer": "ENDLESS",
-            "source": "cs/2011"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Fuss over",
+            "text": "Treat yourself",
             "answer": "INDULGE",
-            "source": "atc/2005"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Made preparations",
+            "text": "Arranged in advance",
             "answer": "PLANNED",
-            "source": "nw/2005"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Fanatical",
+            "text": "Far from moderate",
             "answer": "EXTREME",
-            "source": "bg/2014"
+            "source": "plain/1"
           },
           {
             "number": 4,
             "text": "Another helping of food",
             "answer": "SECONDS",
-            "source": "onion/2011"
+            "source": "plain/1"
           }
         ]
       },
@@ -2348,7 +2348,7 @@
     },
     {
       "id": "p000036",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2367,53 +2367,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Increased twofold",
+            "text": "Multiplied by two",
             "answer": "DOUBLED",
-            "source": "cht/1997"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Heroes of sagas",
+            "text": "Seafaring warriors of Scandinavia",
             "answer": "VIKINGS",
-            "source": "beq/2021"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Bishop's purview",
+            "text": "A bishop's district",
             "answer": "DIOCESE",
-            "source": "lat/2017"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Gave",
+            "text": "Contributed to charity",
             "answer": "DONATED",
-            "source": "lat/2018"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Not unanimous",
+            "text": "Split apart",
             "answer": "DIVIDED",
-            "source": "nw/2002"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Far from famous",
+            "text": "Not familiar or identified",
             "answer": "UNKNOWN",
-            "source": "cs/2015"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Guinness superlative",
+            "text": "Taking the most time",
             "answer": "LONGEST",
-            "source": "nw/2006"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Come down",
+            "text": "Climb down a hill",
             "answer": "DESCEND",
-            "source": "lat/2022"
+            "source": "plain/1"
           }
         ]
       },
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "p000037",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2440,53 +2440,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Leans (on)",
+            "text": "Is decided by something else",
             "answer": "DEPENDS",
-            "source": "cht/1997"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Plug add-on",
+            "text": "Plug converter for travel",
             "answer": "ADAPTER",
-            "source": "nw/2004"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Visual",
+            "text": "Like an illusion",
             "answer": "OPTICAL",
-            "source": "nw/2000"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "A long time",
+            "text": "Periods of ten years",
             "answer": "DECADES",
-            "source": "pi/1998"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "April birthstone",
+            "text": "Baseball infield",
             "answer": "DIAMOND",
-            "source": "lat/2024"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Credit cards",
+            "text": "Credit card, informally",
             "answer": "PLASTIC",
-            "source": "nw/2004"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Observed",
+            "text": "Spotted",
             "answer": "NOTICED",
-            "source": "lat/2019"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Excess",
+            "text": "More than is needed",
             "answer": "SURPLUS",
-            "source": "cht/2007"
+            "source": "plain/1"
           }
         ]
       },
@@ -2494,7 +2494,7 @@
     },
     {
       "id": "p000038",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2513,53 +2513,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Busts, e.g.",
+            "text": "Carved figures in a park",
             "answer": "STATUES",
-            "source": "lat/2017"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "One held for ransom",
+            "text": "Person held captive for demands",
             "answer": "HOSTAGE",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "The least possible",
+            "text": "Very small in amount",
             "answer": "MINIMAL",
-            "source": "tny/2022"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Reedlike",
+            "text": "Gracefully thin",
             "answer": "SLENDER",
-            "source": "cs/2003"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Plans",
+            "text": "Plots to get something",
             "answer": "SCHEMES",
-            "source": "nw/2005"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Failure to show up",
+            "text": "Lack of something",
             "answer": "ABSENCE",
-            "source": "cs/2009"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Weaponless",
+            "text": "Carrying no weapons",
             "answer": "UNARMED",
-            "source": "tny/2023"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Brilliant",
+            "text": "Relating to the stars",
             "answer": "STELLAR",
-            "source": "nw/2022"
+            "source": "plain/1"
           }
         ]
       },
@@ -2567,7 +2567,7 @@
     },
     {
       "id": "p000039",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2586,53 +2586,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Circle-drawing aid",
+            "text": "Tool for drawing circles",
             "answer": "COMPASS",
-            "source": "cs/1998"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Kind of blouse",
+            "text": "Poor farm worker of old times",
             "answer": "PEASANT",
-            "source": "lat/2011"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Starting",
+            "text": "First",
             "answer": "INITIAL",
-            "source": "eltana/2014"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Busy",
+            "text": "Promised to marry",
             "answer": "ENGAGED",
-            "source": "nw/2020"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Prisoner",
+            "text": "Person held prisoner",
             "answer": "CAPTIVE",
-            "source": "bg/2010"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Definition",
+            "text": "Significance",
             "answer": "MEANING",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Jaw-dropping",
+            "text": "Wonderful and astonishing",
             "answer": "AMAZING",
-            "source": "lat/2020"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Avoided court",
+            "text": "Resolved, as a dispute",
             "answer": "SETTLED",
-            "source": "atc/2005"
+            "source": "plain/1"
           }
         ]
       },
@@ -2640,7 +2640,7 @@
     },
     {
       "id": "p000040",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2659,53 +2659,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Displaced person",
+            "text": "One who seeks safety abroad",
             "answer": "REFUGEE",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 5,
             "text": "Bright red",
             "answer": "SCARLET",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Billion-dollar start-up",
+            "text": "Fantasy creature with a spiral horn",
             "answer": "UNICORN",
-            "source": "lat/2024"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Frocks",
+            "text": "Puts clothes on",
             "answer": "DRESSES",
-            "source": "cht/2002"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Freed",
+            "text": "Brought to safety",
             "answer": "RESCUED",
-            "source": "cht/1996"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Like some egos",
+            "text": "Label on a box of glassware",
             "answer": "FRAGILE",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Jug units",
+            "text": "Amounts you pump at a gas station",
             "answer": "GALLONS",
-            "source": "pi/2014"
+            "source": "plain/1"
           },
           {
             "number": 4,
             "text": "Stretches out",
             "answer": "EXTENDS",
-            "source": "lat/2024"
+            "source": "plain/1"
           }
         ]
       },
@@ -2713,7 +2713,7 @@
     },
     {
       "id": "p000041",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2732,53 +2732,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Close friend",
+            "text": "Companion in a shared struggle",
             "answer": "COMRADE",
-            "source": "pk/2005"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Affront",
+            "text": "Shocking, wicked act",
             "answer": "OUTRAGE",
-            "source": "avc/2014"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Stop",
+            "text": "Stop from happening",
             "answer": "PREVENT",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Coveted",
+            "text": "Wanted badly",
             "answer": "DESIRED",
-            "source": "lat/1996"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Did some prep work in the kitchen",
+            "text": "Cut into pieces",
             "answer": "CHOPPED",
-            "source": "nyt/2022"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Holds weight",
+            "text": "Is important",
             "answer": "MATTERS",
-            "source": "lat/2022"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Dilettante",
+            "text": "Not a professional",
             "answer": "AMATEUR",
-            "source": "lat/2010"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Chose",
+            "text": "Voted into office",
             "answer": "ELECTED",
-            "source": "lat/2007"
+            "source": "plain/1"
           }
         ]
       },
@@ -2786,7 +2786,7 @@
     },
     {
       "id": "p000042",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2805,53 +2805,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Last of a dozen",
+            "text": "Coming after eleventh",
             "answer": "TWELFTH",
-            "source": "lat/2023"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Forsake",
+            "text": "Leave behind for good",
             "answer": "ABANDON",
-            "source": "pk/2007"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Uncultivated",
+            "text": "Found in the wild, not man-made",
             "answer": "NATURAL",
-            "source": "nw/2021"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Brings to mind",
+            "text": "Remembers",
             "answer": "RECALLS",
-            "source": "cht/2006"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Coach",
+            "text": "Person who teaches skills to new staff",
             "answer": "TRAINER",
-            "source": "nw/1998"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Flexible",
+            "text": "Stretchy",
             "answer": "ELASTIC",
-            "source": "lat/2011"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "National",
+            "text": "Not state or local",
             "answer": "FEDERAL",
-            "source": "cs/2002"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Copes with",
+            "text": "Parts you grab to open doors",
             "answer": "HANDLES",
-            "source": "pk/2005"
+            "source": "plain/1"
           }
         ]
       },
@@ -2859,7 +2859,7 @@
     },
     {
       "id": "p000043",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2878,53 +2878,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Chess student's lesson",
+            "text": "Beginning part",
             "answer": "OPENING",
-            "source": "beq/2019"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "__ wings (bar fare)",
+            "text": "Large shaggy plains animal",
             "answer": "BUFFALO",
-            "source": "atc/2005"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Type of engine",
+            "text": "Spinning engine part in a wind farm",
             "answer": "TURBINE",
-            "source": "nw/2001"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Does as told",
+            "text": "Hears carefully",
             "answer": "LISTENS",
-            "source": "nw/2021"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Like a planet's path",
+            "text": "Like a satellite's circling route",
             "answer": "ORBITAL",
-            "source": "cs/2001"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Endeavors",
+            "text": "Attempts to get something done",
             "answer": "EFFORTS",
-            "source": "cht/2007"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Fancy",
+            "text": "Picture in your mind",
             "answer": "IMAGINE",
-            "source": "nw/2019"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Farmers, essentially",
+            "text": "Farmers who raise crops",
             "answer": "GROWERS",
-            "source": "cs/1997"
+            "source": "plain/1"
           }
         ]
       },
@@ -2932,7 +2932,7 @@
     },
     {
       "id": "p000044",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 7,
         "height": 7
@@ -2951,53 +2951,53 @@
         "across": [
           {
             "number": 1,
-            "text": "Brit's banger",
+            "text": "Ground meat in a casing",
             "answer": "SAUSAGE",
-            "source": "cs/2009"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Seemed reasonable",
+            "text": "Thought or supposed",
             "answer": "FIGURED",
-            "source": "cht/2008"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Check",
+            "text": "Inspect carefully",
             "answer": "EXAMINE",
-            "source": "nw/2014"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Those on a quest",
+            "text": "Those looking for answers",
             "answer": "SEEKERS",
-            "source": "cht/2008"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Feels the pain",
+            "text": "Goes through something bad",
             "answer": "SUFFERS",
-            "source": "cca/2001"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Frequent-flier perk",
+            "text": "Switch to a nicer seat on a plane",
             "answer": "UPGRADE",
-            "source": "cht/1999"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "American, for one",
+            "text": "Delta or United, for example",
             "answer": "AIRLINE",
-            "source": "lat/2004"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "On and on",
+            "text": "Going on forever",
             "answer": "ENDLESS",
-            "source": "atc/2006"
+            "source": "plain/1"
           }
         ]
       },
@@ -3005,7 +3005,7 @@
     },
     {
       "id": "p000045",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3026,89 +3026,89 @@
         "across": [
           {
             "number": 1,
-            "text": "Body in a belt",
+            "text": "Rocky body orbiting the sun",
             "answer": "ASTEROID",
-            "source": "nw/2020"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Compliant",
+            "text": "Ready and happy to do it",
             "answer": "WILLING",
-            "source": "atc/2006"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Scoop seeker",
+            "text": "Person who interviews for a news story",
             "answer": "REPORTER",
-            "source": "avc/2020"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "They're followed",
+            "text": "Presidents and prime ministers, for example",
             "answer": "LEADERS",
-            "source": "ss/2006"
+            "source": "plain/1"
           },
           {
             "number": 13,
-            "text": "District",
+            "text": "Length times width",
             "answer": "AREA",
-            "source": "lat/2025"
+            "source": "plain/1"
           },
           {
             "number": 14,
-            "text": "Tiny bit of rain",
+            "text": "Tiny bead of liquid",
             "answer": "DROP",
-            "source": "nw/2022"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 2,
-            "text": "Tool",
+            "text": "Tool for cutting wood",
             "answer": "SAW",
-            "source": "awm/2004"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Blew up",
+            "text": "Blown up, as a photo",
             "answer": "ENLARGED",
-            "source": "lat/2014"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Kind of drab",
+            "text": "Pitted fruit in a martini",
             "answer": "OLIVE",
-            "source": "cs/2015"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Follows closely",
+            "text": "Hot ___ at a ballgame",
             "answer": "DOGS",
-            "source": "cs/2010"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Beach sight",
+            "text": "Rain shield you hold overhead",
             "answer": "UMBRELLA",
-            "source": "cs/2003"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Piece of dinnerware",
+            "text": "Home base in baseball",
             "answer": "PLATE",
-            "source": "nw/2018"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Airshow stunt",
+            "text": "Circle of rope or string",
             "answer": "LOOP",
-            "source": "cs/2011"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Title",
+            "text": "Polite way to address a man",
             "answer": "SIR",
-            "source": "cht/1997"
+            "source": "plain/1"
           }
         ]
       },
@@ -3116,7 +3116,7 @@
     },
     {
       "id": "p000046",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3137,83 +3137,83 @@
         "across": [
           {
             "number": 1,
-            "text": "Upward __",
+            "text": "Ability to move freely",
             "answer": "MOBILITY",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Military maneuvers",
+            "text": "Strategies used in battle or games",
             "answer": "TACTICS",
-            "source": "nw/2007"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "\"So what __ is new?\"",
+            "text": "Other than that",
             "answer": "ELSE",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Castaway's locale",
+            "text": "Small island",
             "answer": "ISLE",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "Monogram component",
+            "text": "First",
             "answer": "INITIAL",
-            "source": "lat/2016"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Filtered",
+            "text": "Tense, as a relationship",
             "answer": "STRAINED",
-            "source": "cht/1996"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Captivating",
+            "text": "Having a charming pull on people",
             "answer": "MAGNETIC",
-            "source": "nw/2014"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Night flier",
+            "text": "Flying nighttime mammal",
             "answer": "BAT",
-            "source": "lat/2016"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Security device",
+            "text": "Door fastener needing a key",
             "answer": "LOCK",
-            "source": "lat/2021"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Celestial body",
+            "text": "Space rock that might hit a planet",
             "answer": "ASTEROID",
-            "source": "pk/2010"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Important hormone",
+            "text": "Hormone diabetics may inject",
             "answer": "INSULIN",
-            "source": "nw/2001"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Stretch",
+            "text": "Short spell of work",
             "answer": "STINT",
-            "source": "lat/2025"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "\"La Dolce ___\"",
+            "text": "Latin for life",
             "answer": "VITA",
-            "source": "7xw/2021"
+            "source": "plain/1"
           }
         ]
       },
@@ -3221,7 +3221,7 @@
     },
     {
       "id": "p000047",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3242,77 +3242,77 @@
         "across": [
           {
             "number": 1,
-            "text": "Speculative enterprises",
+            "text": "Goes boldly into the unknown",
             "answer": "VENTURES",
-            "source": "nyt/1989"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Endure",
+            "text": "Go through an experience",
             "answer": "UNDERGO",
-            "source": "cs/2008"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Prince with the magic kiss",
+            "text": "Pleasantly attractive",
             "answer": "CHARMING",
-            "source": "lat/1999"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Flat land",
+            "text": "Wide flat grassland",
             "answer": "PRAIRIE",
-            "source": "nw/2007"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Young men",
+            "text": "Young males",
             "answer": "BOYS",
-            "source": "nw/2007"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Gets to",
+            "text": "Insects",
             "answer": "BUGS",
-            "source": "nw/2023"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Pledges",
+            "text": "Words said at a wedding",
             "answer": "VOWS",
-            "source": "nw/2015"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "No longer at rest",
+            "text": "Already in progress",
             "answer": "UNDERWAY",
-            "source": "lat/2002"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Prior",
+            "text": "Sooner than expected",
             "answer": "EARLIER",
-            "source": "cs/2010"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Formal gathering of delegates",
+            "text": "Legislature in Washington",
             "answer": "CONGRESS",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Bummed",
+            "text": "Not content",
             "answer": "UNHAPPY",
-            "source": "lat/2012"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Hair untangler",
+            "text": "Toothed tool for hair",
             "answer": "COMB",
-            "source": "nw/2022"
+            "source": "plain/1"
           }
         ]
       },
@@ -3320,7 +3320,7 @@
     },
     {
       "id": "p000048",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3341,89 +3341,89 @@
         "across": [
           {
             "number": 1,
-            "text": "Newspaper divisions",
+            "text": "Divided parts of an orchestra or a paper",
             "answer": "SECTIONS",
-            "source": "lat/2002"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "Rink surface",
+            "text": "Cubes in a cold drink",
             "answer": "ICE",
-            "source": "manual"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Sign up for",
+            "text": "Come in",
             "answer": "ENTER",
-            "source": "nw/2021"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Lip service?",
+            "text": "Touch with the lips",
             "answer": "KISS",
-            "source": "beq/2019"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Box office failure",
+            "text": "Explosive device",
             "answer": "BOMB",
-            "source": "lat/2007"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "Tore",
+            "text": "Moved quickly on foot",
             "answer": "RAN",
-            "source": "che/2013"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Spot for a bracelet",
+            "text": "Body part you can sprain",
             "answer": "ANKLE",
-            "source": "nw/2016"
+            "source": "plain/1"
           },
           {
             "number": 13,
-            "text": "Listings on syllabi",
+            "text": "Numbers shown on gauges",
             "answer": "READINGS",
-            "source": "avc/2021"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Many labels",
+            "text": "Peel-off labels kids collect",
             "answer": "STICKERS",
-            "source": "bg/1986"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Line on a shopping list",
+            "text": "Article for sale in a store",
             "answer": "ITEM",
-            "source": "nw/2023"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Broadcasting company",
+            "text": "Connected system of computers",
             "answer": "NETWORK",
-            "source": "nw/1999"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Headaches",
+            "text": "Math exercises to solve",
             "answer": "PROBLEMS",
-            "source": "cht/1999"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Heart",
+            "text": "Basic nature of something",
             "answer": "ESSENCE",
-            "source": "avc/2019"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Bill stamp",
+            "text": "Gave money for",
             "answer": "PAID",
-            "source": "lat/2013"
+            "source": "plain/1"
           }
         ]
       },
@@ -3431,7 +3431,7 @@
     },
     {
       "id": "p000049",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3452,77 +3452,77 @@
         "across": [
           {
             "number": 1,
-            "text": "The future",
+            "text": "Day to come",
             "answer": "TOMORROW",
-            "source": "lat/1999"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Invents",
+            "text": "Makes something new",
             "answer": "CREATES",
-            "source": "tny/2021"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Inventive",
+            "text": "Fresh and creative",
             "answer": "ORIGINAL",
-            "source": "tny/2023"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "Gave up",
+            "text": "Gave way",
             "answer": "YIELDED",
-            "source": "nw/2008"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "The like",
+            "text": "Very great, as in ___ fun",
             "answer": "SUCH",
-            "source": "bg/2015"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Piece of evidence",
+            "text": "Crossword hint",
             "answer": "CLUE",
-            "source": "nw/2022"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 2,
-            "text": "Weight concern",
+            "text": "Health problem tied to excess weight",
             "answer": "OBESITY",
-            "source": "cs/2011"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "New kid on the block, say",
+            "text": "Person who doesn't belong to the group",
             "answer": "OUTSIDER",
-            "source": "cs/2005"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "City district",
+            "text": "Child under a guardian's care",
             "answer": "WARD",
-            "source": "cs/2005"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "They usually require passwords",
+            "text": "Reports of events",
             "answer": "ACCOUNTS",
-            "source": "atl/2021"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Tabloid topic",
+            "text": "Juicy gossip-worthy incident",
             "answer": "SCANDAL",
-            "source": "nw/2018"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Keenness",
+            "text": "Outer border of something",
             "answer": "EDGE",
-            "source": "wap/2013"
+            "source": "plain/1"
           }
         ]
       },
@@ -3530,7 +3530,7 @@
     },
     {
       "id": "p000050",
-      "rev": 1,
+      "rev": 2,
       "size": {
         "width": 9,
         "height": 9
@@ -3551,83 +3551,83 @@
         "across": [
           {
             "number": 1,
-            "text": "Bring to life, in a way",
+            "text": "Tell what something is like",
             "answer": "DESCRIBE",
-            "source": "cs/2006"
+            "source": "plain/1"
           },
           {
             "number": 6,
-            "text": "Lacking a handle?",
+            "text": "Anonymous, as a source",
             "answer": "UNNAMED",
-            "source": "lat/2015"
+            "source": "plain/1"
           },
           {
             "number": 7,
-            "text": "Neat",
+            "text": "Neat and slim",
             "answer": "TRIM",
-            "source": "slate/2025"
+            "source": "plain/1"
           },
           {
             "number": 8,
-            "text": "Capri",
+            "text": "Land in the sea, in poetry",
             "answer": "ISLE",
-            "source": "atc/2006"
+            "source": "plain/1"
           },
           {
             "number": 11,
-            "text": "Better",
+            "text": "Move to a better version",
             "answer": "UPGRADE",
-            "source": "nw/2011"
+            "source": "plain/1"
           },
           {
             "number": 12,
-            "text": "Large trash receptacle",
+            "text": "Large outdoor garbage container",
             "answer": "DUMPSTER",
-            "source": "nw/2018"
+            "source": "plain/1"
           }
         ],
         "down": [
           {
             "number": 1,
-            "text": "Uncertain",
+            "text": "Unlikely or uncertain",
             "answer": "DOUBTFUL",
-            "source": "cs/2011"
+            "source": "plain/1"
           },
           {
             "number": 2,
-            "text": "Passing along",
+            "text": "Transmitting a text message",
             "answer": "SENDING",
-            "source": "nw/2007"
+            "source": "plain/1"
           },
           {
             "number": 3,
-            "text": "Sloping walkway",
+            "text": "Sloped path instead of stairs",
             "answer": "RAMP",
-            "source": "nw/2021"
+            "source": "plain/1"
           },
           {
             "number": 4,
-            "text": "Evil",
+            "text": "Naughty, like a misbehaving child",
             "answer": "BAD",
-            "source": "lat/2020"
+            "source": "plain/1"
           },
           {
             "number": 5,
-            "text": "As one",
+            "text": "At the same time",
             "answer": "TOGETHER",
-            "source": "cht/1999"
+            "source": "plain/1"
           },
           {
             "number": 9,
-            "text": "Thin layer",
+            "text": "Single piece of paper",
             "answer": "SHEET",
-            "source": "cht/2007"
+            "source": "plain/1"
           },
           {
             "number": 10,
-            "text": "End-table item",
+            "text": "Bedside light",
             "answer": "LAMP",
-            "source": "nw/2007"
+            "source": "plain/1"
           }
         ]
       },

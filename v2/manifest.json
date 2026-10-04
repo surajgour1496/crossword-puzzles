@@ -1,12 +1,12 @@
 {
   "formatVersion": 2,
-  "contentVersion": 18,
-  "publishedAt": "2026-10-04T06:31:08Z",
+  "contentVersion": 19,
+  "publishedAt": "2026-10-04T11:09:07Z",
   "lastId": 152,
   "files": [
     {
       "path": "index.json",
-      "sha256": "8e3232fc9a844513041391feb3475231d61cc6e15d0cce6ab909695daa4fa1df"
+      "sha256": "e168a229d8a58e1fd551ffe84e4f2fbf54d2811dc714bf679e84851fbae09352"
     },
     {
       "path": "campaign.json",
@@ -18,19 +18,19 @@
     },
     {
       "path": "packs/0001.json",
-      "sha256": "873208cf174ce833ec2e36fce6912bd24ed86c1a21f2ffe2132fb8bbde25e32a"
+      "sha256": "0f8b7d157f1e1174939f4ef429434cccf108db930492d339daf7dcc252ae873b"
     },
     {
       "path": "packs/0002.json",
-      "sha256": "c2ad50f44af56085d3c7dfdf04da232fc0ddb8005cbf6bd22a26af1028f461fa"
+      "sha256": "0d68ff20a502ef49dcb113bc016e2df8a157718a227e70c9ef22ba1b5160b31b"
     },
     {
       "path": "packs/0003.json",
-      "sha256": "d0bd5eca7b6950639be4519f6912397393dc61558846797a0b21dabf6e87cea1"
+      "sha256": "88615e941277182fd4a2a1ae9cd569907f627d9acc14437d2f0b99f34cd0f5fb"
     },
     {
       "path": "packs/0004.json",
-      "sha256": "8592b87357a1bce9118a1a1bcff40b7a99cb979c41c20fcb3d1b21953b9a4f63"
+      "sha256": "e18c6f58c5071a0bfb18b803d7d961164f040661667d751ccb93c847c18c2f0d"
     }
   ]
 }
