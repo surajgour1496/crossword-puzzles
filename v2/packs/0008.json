@@ -1,0 +1,224 @@
+{
+  "pack": 8,
+  "puzzles": [
+    {
+      "id": "p000351",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "RECOVER",
+        "E#L#I#E",
+        "PLAYOFF",
+        "L#S#L#U",
+        "ANSWERS",
+        "C#I#N#E",
+        "EXCITED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Get back something lost",
+            "answer": "RECOVER",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Extra game to break a tie",
+            "answer": "PLAYOFF",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Replies to questions",
+            "answer": "ANSWERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Thrilled and eager",
+            "answer": "EXCITED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Swap out, as a dead battery",
+            "answer": "REPLACE",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Timeless and of lasting quality",
+            "answer": "CLASSIC",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Likely to attack or hurt others",
+            "answer": "VIOLENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Said no to",
+            "answer": "REFUSED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-10-06g"
+    },
+    {
+      "id": "p000352",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "CHASING",
+        "L#V#M#A",
+        "OVERALL",
+        "S#R#G#L",
+        "EXAMINE",
+        "S#G#N#R",
+        "THEREBY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Running after",
+            "answer": "CHASING",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "In general; taking everything into account",
+            "answer": "OVERALL",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Look at closely",
+            "answer": "EXAMINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "By that means",
+            "answer": "THEREBY",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Nearest",
+            "answer": "CLOSEST",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Typical or ordinary",
+            "answer": "AVERAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Picture in your mind",
+            "answer": "IMAGINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Upper seating level in a theater",
+            "answer": "GALLERY",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-10-06g"
+    },
+    {
+      "id": "p000353",
+      "rev": 1,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "ARTICLE",
+        "T#R#L#N",
+        "TRADING",
+        "A#I#M#I",
+        "CONTAIN",
+        "K#E#T#E",
+        "SERVERS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Piece of writing in a newspaper",
+            "answer": "ARTICLE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Buying and selling",
+            "answer": "TRADING",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Hold inside",
+            "answer": "CONTAIN",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Computers that host websites",
+            "answer": "SERVERS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Strikes with force",
+            "answer": "ATTACKS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Gym coach who helps you work out",
+            "answer": "TRAINER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Tropical or polar, for example",
+            "answer": "CLIMATE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Machines that power cars and planes",
+            "answer": "ENGINES",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-10-06g"
+    }
+  ]
+}

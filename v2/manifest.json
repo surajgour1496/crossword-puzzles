@@ -1,0 +1,52 @@
+{
+  "formatVersion": 2,
+  "contentVersion": 26,
+  "publishedAt": "2026-10-06T17:24:38Z",
+  "lastId": 353,
+  "files": [
+    {
+      "path": "index.json",
+      "sha256": "359ced32c152425caa2dba5b64e6c642c9174f3dec306111c25d466014c43b01"
+    },
+    {
+      "path": "campaign.json",
+      "sha256": "1ee38485b64493e32c235e9f6b0db421c932d3b7251d4a181aeecd0ceb5a3c8f"
+    },
+    {
+      "path": "daily.json",
+      "sha256": "41cad3937898f63821413f69507718386354f116cfd329029cc2db7a4cf54e51"
+    },
+    {
+      "path": "packs/0001.json",
+      "sha256": "0f8b7d157f1e1174939f4ef429434cccf108db930492d339daf7dcc252ae873b"
+    },
+    {
+      "path": "packs/0002.json",
+      "sha256": "0d68ff20a502ef49dcb113bc016e2df8a157718a227e70c9ef22ba1b5160b31b"
+    },
+    {
+      "path": "packs/0003.json",
+      "sha256": "88615e941277182fd4a2a1ae9cd569907f627d9acc14437d2f0b99f34cd0f5fb"
+    },
+    {
+      "path": "packs/0004.json",
+      "sha256": "7359519248edff95edff3df14e7f4278fd1a08cc4c87578d3029b69c13e1cf9d"
+    },
+    {
+      "path": "packs/0005.json",
+      "sha256": "8cf747ffa08facda7b3d1a529b5d10e74dbeea7c47b67fe5731e8d875e6af839"
+    },
+    {
+      "path": "packs/0006.json",
+      "sha256": "9d4f53ef0d6955fa9dec69f0cf1e3598c2869d2aeee52b933dc35fc2f262ed2a"
+    },
+    {
+      "path": "packs/0007.json",
+      "sha256": "37a4c0bd48bbeaa616b8f4406288f78e905aaa7d2909f92d3c209c4219398a29"
+    },
+    {
+      "path": "packs/0008.json",
+      "sha256": "473df612dbb27efea6c55c074ac334443768bc1a4814fd11158831d871f1a741"
+    }
+  ]
+}

@@ -1,0 +1,3637 @@
+{
+  "pack": 1,
+  "puzzles": [
+    {
+      "id": "p000001",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "BRIDE",
+        "R#S#N",
+        "ASSET",
+        "S#U#E",
+        "SHEER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Woman on her wedding day",
+            "answer": "BRIDE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Valuable thing to have",
+            "answer": "ASSET",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "See-through, like thin fabric",
+            "answer": "SHEER",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Yellow metal of copper and zinc",
+            "answer": "BRASS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Topic of debate",
+            "answer": "ISSUE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Come in",
+            "answer": "ENTER",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000002",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "ERROR",
+        "A#O#O",
+        "REBEL",
+        "T#I#L",
+        "HANDS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Mistake",
+            "answer": "ERROR",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Fight against authority",
+            "answer": "REBEL",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Body parts with fingers",
+            "answer": "HANDS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "The planet we live on",
+            "answer": "EARTH",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Red-breasted songbird",
+            "answer": "ROBIN",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Bakery buns served with dinner",
+            "answer": "ROLLS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000003",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "GREAT",
+        "I#R#A",
+        "FIRES",
+        "T#O#K",
+        "SORTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Wonderful",
+            "answer": "GREAT",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Blazes",
+            "answer": "FIRES",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Kinds or types",
+            "answer": "SORTS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Birthday presents",
+            "answer": "GIFTS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Wrong answer in a calculation",
+            "answer": "ERROR",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Jobs to be done",
+            "answer": "TASKS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000004",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "COUCH",
+        "O#S#E",
+        "ARENA",
+        "C#R#D",
+        "HOSTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Sofa",
+            "answer": "COUCH",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Large stadium for sports",
+            "answer": "ARENA",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Party throwers who greet the guests",
+            "answer": "HOSTS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Team trainer",
+            "answer": "COACH",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "People who operate a service",
+            "answer": "USERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Side of a coin with a face",
+            "answer": "HEADS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000005",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "BANDS",
+        "A#A#A",
+        "NOVEL",
+        "K#A#E",
+        "SELLS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Groups of musicians",
+            "answer": "BANDS",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Book-length story",
+            "answer": "NOVEL",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Trades goods for money",
+            "answer": "SELLS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Places to deposit your paycheck",
+            "answer": "BANKS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Relating to a country's warships",
+            "answer": "NAVAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Store discount events",
+            "answer": "SALES",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000006",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "SHORE",
+        "T#F#R",
+        "ENTER",
+        "A#E#O",
+        "MINOR"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Land beside the sea",
+            "answer": "SHORE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Type into a computer",
+            "answer": "ENTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Not very important",
+            "answer": "MINOR",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Hot vapor from boiling water",
+            "answer": "STEAM",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Frequently",
+            "answer": "OFTEN",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Mistake",
+            "answer": "ERROR",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000007",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "WELLS",
+        "A#A#A",
+        "LOYAL",
+        "K#E#E",
+        "SORTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Holes dug for water",
+            "answer": "WELLS",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Faithful to friends",
+            "answer": "LOYAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Arranges into groups",
+            "answer": "SORTS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Goes on foot",
+            "answer": "WALKS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "One level in a cake",
+            "answer": "LAYER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Money-making business department",
+            "answer": "SALES",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000008",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "FIELD",
+        "I#L#R",
+        "RIDGE",
+        "E#E#S",
+        "SORTS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Open grassy area",
+            "answer": "FIELD",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Long narrow top of a mountain",
+            "answer": "RIDGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Kinds or types",
+            "answer": "SORTS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Dismisses from a job",
+            "answer": "FIRES",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Older person in a community",
+            "answer": "ELDER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "One-piece garment for women",
+            "answer": "DRESS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000009",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "CLOUD",
+        "O#R#R",
+        "AUDIO",
+        "S#E#N",
+        "THREE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "White puffy thing in the sky",
+            "answer": "CLOUD",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Sound, as opposed to video",
+            "answer": "AUDIO",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Number after two",
+            "answer": "THREE",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Land beside the sea",
+            "answer": "COAST",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Command or instruction",
+            "answer": "ORDER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Remote-controlled flying device",
+            "answer": "DRONE",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000010",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "BIRTH",
+        "R#I#A",
+        "OWNER",
+        "W#G#R",
+        "NASTY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Moment a baby comes into the world",
+            "answer": "BIRTH",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Person who has something as property",
+            "answer": "OWNER",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Very unpleasant",
+            "answer": "NASTY",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Color of chocolate",
+            "answer": "BROWN",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Finger jewelry",
+            "answer": "RINGS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Prince William's brother",
+            "answer": "HARRY",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000011",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "SONGS",
+        "P#E#I",
+        "LOVED",
+        "I#E#E",
+        "TURNS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Tunes with lyrics",
+            "answer": "SONGS",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Adored",
+            "answer": "LOVED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Rotates",
+            "answer": "TURNS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Break in two",
+            "answer": "SPLIT",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Not at any time",
+            "answer": "NEVER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Left and right, for example",
+            "answer": "SIDES",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000012",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "SAVED",
+        "T#O#R",
+        "EXTRA",
+        "A#E#M",
+        "MARIA"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Rescued",
+            "answer": "SAVED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "More than usual",
+            "answer": "EXTRA",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Girl's name in West Side Story",
+            "answer": "MARIA",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Cook over boiling water",
+            "answer": "STEAM",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Person who casts a ballot",
+            "answer": "VOTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Serious play or TV show",
+            "answer": "DRAMA",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000013",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "LIKES",
+        "O#N#U",
+        "CHEAP",
+        "A#E#E",
+        "LOSER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Enjoys",
+            "answer": "LIKES",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Low in price",
+            "answer": "CHEAP",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "One who does not win",
+            "answer": "LOSER",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "From the neighborhood",
+            "answer": "LOCAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Leg joints",
+            "answer": "KNEES",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Great or excellent",
+            "answer": "SUPER",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000014",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "VERSE",
+        "O#U#N",
+        "TIRED",
+        "E#A#E",
+        "RULED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Line or stanza of a poem",
+            "answer": "VERSE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Ready for sleep",
+            "answer": "TIRED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Governed as king or queen",
+            "answer": "RULED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Citizen at the polls",
+            "answer": "VOTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Of the countryside",
+            "answer": "RURAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Finished",
+            "answer": "ENDED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000015",
+      "rev": 2,
+      "size": {
+        "width": 5,
+        "height": 5
+      },
+      "difficulty": 1,
+      "grid": [
+        "LINED",
+        "A#O#E",
+        "NEVER",
+        "D#E#B",
+        "SILLY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Having thin marks, like notebook paper",
+            "answer": "LINED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "At no time whatsoever",
+            "answer": "NEVER",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Goofy and playful",
+            "answer": "SILLY",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Countries or territories",
+            "answer": "LANDS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "New and original",
+            "answer": "NOVEL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Famous horse race in Kentucky",
+            "answer": "DERBY",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27a"
+    },
+    {
+      "id": "p000016",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "COLLEGE",
+        "R#E#A#M",
+        "OBSERVE",
+        "S#S#L#R",
+        "SHOWING",
+        "E#N#E#E",
+        "DESIRED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "School after high school",
+            "answer": "COLLEGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Watch carefully",
+            "answer": "OBSERVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "One screening of a movie",
+            "answer": "SHOWING",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Wanted badly",
+            "answer": "DESIRED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Went to the other side",
+            "answer": "CROSSED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Classes with a teacher",
+            "answer": "LESSONS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Before now",
+            "answer": "EARLIER",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Came out into view",
+            "answer": "EMERGED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000017",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "NUCLEAR",
+        "E#H#P#E",
+        "READING",
+        "V#P#S#A",
+        "OUTDOOR",
+        "U#E#D#D",
+        "SCREENS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Relating to atomic energy",
+            "answer": "NUCLEAR",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Looking at a book's words",
+            "answer": "READING",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Done outside",
+            "answer": "OUTDOOR",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Displays on phones and TVs",
+            "answer": "SCREENS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Anxious and jittery",
+            "answer": "NERVOUS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Section of a book",
+            "answer": "CHAPTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "One show in a TV series",
+            "answer": "EPISODE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Friendly wishes at a letter's end",
+            "answer": "REGARDS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000018",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "WORSHIP",
+        "E#E#O#L",
+        "LECTURE",
+        "C#E#S#A",
+        "ORIGINS",
+        "M#V#N#E",
+        "EMERGED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Show deep religious devotion",
+            "answer": "WORSHIP",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Talk given to a class",
+            "answer": "LECTURE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Beginnings or sources",
+            "answer": "ORIGINS",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Appeared from hiding",
+            "answer": "EMERGED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Greet warmly",
+            "answer": "WELCOME",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Get something sent to you",
+            "answer": "RECEIVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Homes and places to live",
+            "answer": "HOUSING",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Happy about something",
+            "answer": "PLEASED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000019",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "SHADOWS",
+        "T#D#P#Y",
+        "ENDLESS",
+        "P#R#N#T",
+        "PRECISE",
+        "E#S#N#M",
+        "DESIGNS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Dark shapes cast by objects",
+            "answer": "SHADOWS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Without limit",
+            "answer": "ENDLESS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Exact and accurate",
+            "answer": "PRECISE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Plans for how things look",
+            "answer": "DESIGNS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Took a stride",
+            "answer": "STEPPED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Where you live, on an envelope",
+            "answer": "ADDRESS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Gap or hole",
+            "answer": "OPENING",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Organized sets of parts working together",
+            "answer": "SYSTEMS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000020",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "LOADING",
+        "E#N#N#O",
+        "ADOPTED",
+        "D#T#E#D",
+        "ENHANCE",
+        "R#E#S#S",
+        "SURVEYS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Putting cargo on",
+            "answer": "LOADING",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Taken in as one's own child",
+            "answer": "ADOPTED",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Make better",
+            "answer": "ENHANCE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Sets of questions asked of many people",
+            "answer": "SURVEYS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "People in charge of groups",
+            "answer": "LEADERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "One more",
+            "answer": "ANOTHER",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Very strong or extreme",
+            "answer": "INTENSE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Female deity",
+            "answer": "GODDESS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000021",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "OFFERED",
+        "P#A#E#E",
+        "THREATS",
+        "I#M#L#I",
+        "OPENING",
+        "N#R#Z#N",
+        "SISTERS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Held out for someone to take",
+            "answer": "OFFERED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Warnings of harm to come",
+            "answer": "THREATS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Beginning part",
+            "answer": "OPENING",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Female siblings",
+            "answer": "SISTERS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Choices",
+            "answer": "OPTIONS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "People who grow our crops",
+            "answer": "FARMERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Suddenly understand",
+            "answer": "REALIZE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Patterns on fabric",
+            "answer": "DESIGNS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000022",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "PLANNED",
+        "O#R#E#R",
+        "WARFARE",
+        "E#I#R#S",
+        "REVIEWS",
+        "E#A#S#E",
+        "DELETED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Thought out ahead of time",
+            "answer": "PLANNED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Fighting between armies",
+            "answer": "WARFARE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Critics' opinions",
+            "answer": "REVIEWS",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Erased",
+            "answer": "DELETED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Supplied with energy to run",
+            "answer": "POWERED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Coming to a place",
+            "answer": "ARRIVAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Closest",
+            "answer": "NEAREST",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Wearing clothes",
+            "answer": "DRESSED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000023",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "RESTORE",
+        "E#A#V#X",
+        "COMMENT",
+        "O#P#R#R",
+        "VILLAGE",
+        "E#E#L#M",
+        "RESOLVE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Bring back to original condition",
+            "answer": "RESTORE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Remark",
+            "answer": "COMMENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Small town in the country",
+            "answer": "VILLAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Firm determination",
+            "answer": "RESOLVE",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Get well after being sick",
+            "answer": "RECOVER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Free small tastes at a store",
+            "answer": "SAMPLES",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "In general; taking everything into account",
+            "answer": "OVERALL",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Very intense or severe",
+            "answer": "EXTREME",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000024",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "AFFAIRS",
+        "F#I#N#I",
+        "FOCUSES",
+        "E#T#T#T",
+        "CLIMATE",
+        "T#O#L#R",
+        "SINGLES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Personal business matters",
+            "answer": "AFFAIRS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Pays close attention",
+            "answer": "FOCUSES",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Typical weather of a region over years",
+            "answer": "CLIMATE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Unmarried people",
+            "answer": "SINGLES",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Influences",
+            "answer": "AFFECTS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Made-up stories",
+            "answer": "FICTION",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Set up for use",
+            "answer": "INSTALL",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Nuns",
+            "answer": "SISTERS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000025",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "FOREVER",
+        "O#A#I#E",
+        "CENTERS",
+        "U#G#W#U",
+        "SPECIAL",
+        "E#R#N#T",
+        "DESIGNS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "For all time",
+            "answer": "FOREVER",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Middle points",
+            "answer": "CENTERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Out of the ordinary",
+            "answer": "SPECIAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Plans for how things look",
+            "answer": "DESIGNS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Paying close attention",
+            "answer": "FOCUSED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Park officials in uniform",
+            "answer": "RANGERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Watching a show or film",
+            "answer": "VIEWING",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Outcomes of a test or race",
+            "answer": "RESULTS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000026",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "CHANGED",
+        "L#R#R#E",
+        "ANSWERS",
+        "I#E#A#I",
+        "MONITOR",
+        "E#A#L#E",
+        "DELAYED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Became different",
+            "answer": "CHANGED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Replies to questions",
+            "answer": "ANSWERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Computer screen",
+            "answer": "MONITOR",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Made late",
+            "answer": "DELAYED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Stated as true",
+            "answer": "CLAIMED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Large stock of weapons",
+            "answer": "ARSENAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Very much",
+            "answer": "GREATLY",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Wished for",
+            "answer": "DESIRED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000027",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "CONTENT",
+        "H#A#L#W",
+        "EXTREME",
+        "A#U#M#E",
+        "PERCENT",
+        "E#A#N#E",
+        "RELATED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Happy and satisfied",
+            "answer": "CONTENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Far from moderate",
+            "answer": "EXTREME",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "One part in a hundred",
+            "answer": "PERCENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Belonging to the same family",
+            "answer": "RELATED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Costing less",
+            "answer": "CHEAPER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Not artificial",
+            "answer": "NATURAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Basic part of something",
+            "answer": "ELEMENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Posted a short online message",
+            "answer": "TWEETED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000028",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 1,
+      "grid": [
+        "FIGURED",
+        "O#R#E#E",
+        "CHOICES",
+        "U#U#E#I",
+        "SINGING",
+        "E#D#V#N",
+        "SYSTEMS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Worked out or concluded",
+            "answer": "FIGURED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Options to pick from",
+            "answer": "CHOICES",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Performing songs aloud",
+            "answer": "SINGING",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Networks of connected parts",
+            "answer": "SYSTEMS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Makes a lens image sharp",
+            "answer": "FOCUSES",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Land around a building",
+            "answer": "GROUNDS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Welcome a guest",
+            "answer": "RECEIVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Plans for how things look",
+            "answer": "DESIGNS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27b"
+    },
+    {
+      "id": "p000029",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "SETTING",
+        "T#I#N#E",
+        "RECEIPT",
+        "I#K#T#A",
+        "PREVIEW",
+        "E#T#A#A",
+        "DISPLAY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Where a story takes place",
+            "answer": "SETTING",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Paper proving you paid",
+            "answer": "RECEIPT",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Sneak peek",
+            "answer": "PREVIEW",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Show off",
+            "answer": "DISPLAY",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Like a zebra's coat",
+            "answer": "STRIPED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Fines for speeding",
+            "answer": "TICKETS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Letter that starts a name",
+            "answer": "INITIAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Escape by criminals",
+            "answer": "GETAWAY",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000030",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "PRIVATE",
+        "L#N#V#L",
+        "ACHIEVE",
+        "S#E#R#M",
+        "TERRACE",
+        "E#I#G#N",
+        "RETREAT"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Not open to the public",
+            "answer": "PRIVATE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Succeed in reaching a goal",
+            "answer": "ACHIEVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Flat step cut into a hillside",
+            "answer": "TERRACE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Back away from danger",
+            "answer": "RETREAT",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Cover thickly",
+            "answer": "PLASTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Get traits from your parents",
+            "answer": "INHERIT",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Typical or ordinary",
+            "answer": "AVERAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Chemical like oxygen or gold",
+            "answer": "ELEMENT",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000031",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "FITNESS",
+        "E#R#X#U",
+        "STARTER",
+        "T#N#R#P",
+        "INSTALL",
+        "V#I#C#U",
+        "ESTATES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Gym goal",
+            "answer": "FITNESS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Appetizer before the main course",
+            "answer": "STARTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Put in place, like software",
+            "answer": "INSTALL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Everything people leave behind at death",
+            "answer": "ESTATES",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Cheerful and holiday-like",
+            "answer": "FESTIVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Passage from one place to another",
+            "answer": "TRANSIT",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Pull out, as a tooth",
+            "answer": "EXTRACT",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Extra amount left over",
+            "answer": "SURPLUS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000032",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "CLOSURE",
+        "H#V#N#L",
+        "EMERALD",
+        "A#R#R#E",
+        "POLYMER",
+        "E#A#E#L",
+        "RAPIDLY"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Shutting down of a business",
+            "answer": "CLOSURE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Green gemstone",
+            "answer": "EMERALD",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Plastic or nylon, for example",
+            "answer": "POLYMER",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Very quickly",
+            "answer": "RAPIDLY",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "More affordable",
+            "answer": "CHEAPER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Partly cover, like roof shingles",
+            "answer": "OVERLAP",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Without a gun or knife",
+            "answer": "UNARMED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Old, as a person",
+            "answer": "ELDERLY",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000033",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "SURGEON",
+        "M#E#M#A",
+        "ANCIENT",
+        "R#O#R#I",
+        "TORNADO",
+        "E#D#L#N",
+        "RESIDES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Medical specialist in the operating room",
+            "answer": "SURGEON",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Very, very old",
+            "answer": "ANCIENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Funnel-shaped storm that destroys homes",
+            "answer": "TORNADO",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Has a home at",
+            "answer": "RESIDES",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Wiser",
+            "answer": "SMARTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Vinyl discs played on a turntable",
+            "answer": "RECORDS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Deep green color",
+            "answer": "EMERALD",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Countries of the world",
+            "answer": "NATIONS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000034",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "LEARNED",
+        "O#I#E#E",
+        "BERRIES",
+        "S#W#T#E",
+        "TEACHER",
+        "E#Y#E#V",
+        "RESERVE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Picked up knowledge",
+            "answer": "LEARNED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Blue, black, and straw fruits",
+            "answer": "BERRIES",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Classroom leader",
+            "answer": "TEACHER",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Keep for later use",
+            "answer": "RESERVE",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Shellfish boiled alive",
+            "answer": "LOBSTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Breathing passages",
+            "answer": "AIRWAYS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Not this one and not that one",
+            "answer": "NEITHER",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Be worthy of",
+            "answer": "DESERVE",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000035",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "IMPRESS",
+        "N#L#X#E",
+        "DRASTIC",
+        "U#N#R#O",
+        "LANTERN",
+        "G#E#M#D",
+        "ENDLESS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Wow someone",
+            "answer": "IMPRESS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Very big, as a change",
+            "answer": "DRASTIC",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Portable light with a glass case",
+            "answer": "LANTERN",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Going on forever",
+            "answer": "ENDLESS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Treat yourself",
+            "answer": "INDULGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Arranged in advance",
+            "answer": "PLANNED",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Far from moderate",
+            "answer": "EXTREME",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Another helping of food",
+            "answer": "SECONDS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000036",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "DOUBLED",
+        "I#N#O#E",
+        "VIKINGS",
+        "I#N#G#C",
+        "DIOCESE",
+        "E#W#S#N",
+        "DONATED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Multiplied by two",
+            "answer": "DOUBLED",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Seafaring warriors of Scandinavia",
+            "answer": "VIKINGS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "A bishop's district",
+            "answer": "DIOCESE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Contributed to charity",
+            "answer": "DONATED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Split apart",
+            "answer": "DIVIDED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Not familiar or identified",
+            "answer": "UNKNOWN",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Taking the most time",
+            "answer": "LONGEST",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Climb down a hill",
+            "answer": "DESCEND",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000037",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "DEPENDS",
+        "I#L#O#U",
+        "ADAPTER",
+        "M#S#I#P",
+        "OPTICAL",
+        "N#I#E#U",
+        "DECADES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Is decided by something else",
+            "answer": "DEPENDS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Plug converter for travel",
+            "answer": "ADAPTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Like an illusion",
+            "answer": "OPTICAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Periods of ten years",
+            "answer": "DECADES",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Baseball infield",
+            "answer": "DIAMOND",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Credit card, informally",
+            "answer": "PLASTIC",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Spotted",
+            "answer": "NOTICED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "More than is needed",
+            "answer": "SURPLUS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000038",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "STATUES",
+        "C#B#N#T",
+        "HOSTAGE",
+        "E#E#R#L",
+        "MINIMAL",
+        "E#C#E#A",
+        "SLENDER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Carved figures in a park",
+            "answer": "STATUES",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Person held captive for demands",
+            "answer": "HOSTAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Very small in amount",
+            "answer": "MINIMAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Gracefully thin",
+            "answer": "SLENDER",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Plots to get something",
+            "answer": "SCHEMES",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Lack of something",
+            "answer": "ABSENCE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Carrying no weapons",
+            "answer": "UNARMED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Relating to the stars",
+            "answer": "STELLAR",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000039",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "COMPASS",
+        "A#E#M#E",
+        "PEASANT",
+        "T#N#Z#T",
+        "INITIAL",
+        "V#N#N#E",
+        "ENGAGED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Tool for drawing circles",
+            "answer": "COMPASS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Poor farm worker of old times",
+            "answer": "PEASANT",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "First",
+            "answer": "INITIAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Promised to marry",
+            "answer": "ENGAGED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Person held prisoner",
+            "answer": "CAPTIVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Significance",
+            "answer": "MEANING",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Wonderful and astonishing",
+            "answer": "AMAZING",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Resolved, as a dispute",
+            "answer": "SETTLED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000040",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "REFUGEE",
+        "E#R#A#X",
+        "SCARLET",
+        "C#G#L#E",
+        "UNICORN",
+        "E#L#N#D",
+        "DRESSES"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "One who seeks safety abroad",
+            "answer": "REFUGEE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Bright red",
+            "answer": "SCARLET",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Fantasy creature with a spiral horn",
+            "answer": "UNICORN",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Puts clothes on",
+            "answer": "DRESSES",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Brought to safety",
+            "answer": "RESCUED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Label on a box of glassware",
+            "answer": "FRAGILE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Amounts you pump at a gas station",
+            "answer": "GALLONS",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Stretches out",
+            "answer": "EXTENDS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000041",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "COMRADE",
+        "H#A#M#L",
+        "OUTRAGE",
+        "P#T#T#C",
+        "PREVENT",
+        "E#R#U#E",
+        "DESIRED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Companion in a shared struggle",
+            "answer": "COMRADE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Shocking, wicked act",
+            "answer": "OUTRAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Stop from happening",
+            "answer": "PREVENT",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Wanted badly",
+            "answer": "DESIRED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Cut into pieces",
+            "answer": "CHOPPED",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Is important",
+            "answer": "MATTERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Not a professional",
+            "answer": "AMATEUR",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Voted into office",
+            "answer": "ELECTED",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000042",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "TWELFTH",
+        "R#L#E#A",
+        "ABANDON",
+        "I#S#E#D",
+        "NATURAL",
+        "E#I#A#E",
+        "RECALLS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Coming after eleventh",
+            "answer": "TWELFTH",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Leave behind for good",
+            "answer": "ABANDON",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Found in the wild, not man-made",
+            "answer": "NATURAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Remembers",
+            "answer": "RECALLS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Person who teaches skills to new staff",
+            "answer": "TRAINER",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Stretchy",
+            "answer": "ELASTIC",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Not state or local",
+            "answer": "FEDERAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Parts you grab to open doors",
+            "answer": "HANDLES",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000043",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "OPENING",
+        "R#F#M#R",
+        "BUFFALO",
+        "I#O#G#W",
+        "TURBINE",
+        "A#T#N#R",
+        "LISTENS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Beginning part",
+            "answer": "OPENING",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Large shaggy plains animal",
+            "answer": "BUFFALO",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Spinning engine part in a wind farm",
+            "answer": "TURBINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Hears carefully",
+            "answer": "LISTENS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Like a satellite's circling route",
+            "answer": "ORBITAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Attempts to get something done",
+            "answer": "EFFORTS",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Picture in your mind",
+            "answer": "IMAGINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Farmers who raise crops",
+            "answer": "GROWERS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000044",
+      "rev": 2,
+      "size": {
+        "width": 7,
+        "height": 7
+      },
+      "difficulty": 2,
+      "grid": [
+        "SAUSAGE",
+        "U#P#I#N",
+        "FIGURED",
+        "F#R#L#L",
+        "EXAMINE",
+        "R#D#N#S",
+        "SEEKERS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Ground meat in a casing",
+            "answer": "SAUSAGE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Thought or supposed",
+            "answer": "FIGURED",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Inspect carefully",
+            "answer": "EXAMINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Those looking for answers",
+            "answer": "SEEKERS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Goes through something bad",
+            "answer": "SUFFERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Switch to a nicer seat on a plane",
+            "answer": "UPGRADE",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Delta or United, for example",
+            "answer": "AIRLINE",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Going on forever",
+            "answer": "ENDLESS",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27c"
+    },
+    {
+      "id": "p000045",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "#ASTEROID",
+        "U#A#N#L#O",
+        "M#WILLING",
+        "B###A#V#S",
+        "REPORTER#",
+        "E#L#G###L",
+        "LEADERS#O",
+        "L#T#D#I#O",
+        "AREA#DROP"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Rocky body orbiting the sun",
+            "answer": "ASTEROID",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Ready and happy to do it",
+            "answer": "WILLING",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Person who interviews for a news story",
+            "answer": "REPORTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 11,
+            "text": "Presidents and prime ministers, for example",
+            "answer": "LEADERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 13,
+            "text": "Length times width",
+            "answer": "AREA",
+            "source": "plain/1"
+          },
+          {
+            "number": 14,
+            "text": "Tiny bead of liquid",
+            "answer": "DROP",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 2,
+            "text": "Tool for cutting wood",
+            "answer": "SAW",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Blown up, as a photo",
+            "answer": "ENLARGED",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Pitted fruit in a martini",
+            "answer": "OLIVE",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Hot ___ at a ballgame",
+            "answer": "DOGS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Rain shield you hold overhead",
+            "answer": "UMBRELLA",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Home base in baseball",
+            "answer": "PLATE",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Circle of rope or string",
+            "answer": "LOOP",
+            "source": "plain/1"
+          },
+          {
+            "number": 12,
+            "text": "Polite way to address a man",
+            "answer": "SIR",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000046",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "MOBILITY#",
+        "A#A#O###A",
+        "G#TACTICS",
+        "N###K#N#T",
+        "ELSE#ISLE",
+        "T#T#V#U#R",
+        "INITIAL#O",
+        "C#N#T#I#I",
+        "#STRAINED"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Ability to move freely",
+            "answer": "MOBILITY",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Strategies used in battle or games",
+            "answer": "TACTICS",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Other than that",
+            "answer": "ELSE",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Small island",
+            "answer": "ISLE",
+            "source": "plain/1"
+          },
+          {
+            "number": 11,
+            "text": "First",
+            "answer": "INITIAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 12,
+            "text": "Tense, as a relationship",
+            "answer": "STRAINED",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Having a charming pull on people",
+            "answer": "MAGNETIC",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Flying nighttime mammal",
+            "answer": "BAT",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Door fastener needing a key",
+            "answer": "LOCK",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Space rock that might hit a planet",
+            "answer": "ASTEROID",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Hormone diabetics may inject",
+            "answer": "INSULIN",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Short spell of work",
+            "answer": "STINT",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Latin for life",
+            "answer": "VITA",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000047",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "VENTURES#",
+        "O###N#A#C",
+        "W#UNDERGO",
+        "S#N#E#L#N",
+        "#CHARMING",
+        "C#A#W#E#R",
+        "O#PRAIRIE",
+        "M#P#Y###S",
+        "BOYS#BUGS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Goes boldly into the unknown",
+            "answer": "VENTURES",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Go through an experience",
+            "answer": "UNDERGO",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Pleasantly attractive",
+            "answer": "CHARMING",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Wide flat grassland",
+            "answer": "PRAIRIE",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Young males",
+            "answer": "BOYS",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Insects",
+            "answer": "BUGS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Words said at a wedding",
+            "answer": "VOWS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Already in progress",
+            "answer": "UNDERWAY",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Sooner than expected",
+            "answer": "EARLIER",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Legislature in Washington",
+            "answer": "CONGRESS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Not content",
+            "answer": "UNHAPPY",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Toothed tool for hair",
+            "answer": "COMB",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000048",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "SECTIONS#",
+        "T###T#E#P",
+        "ICE#ENTER",
+        "C#S#M#W#O",
+        "KISS#BOMB",
+        "E#E#P#R#L",
+        "RAN#ANKLE",
+        "S#C#I###M",
+        "#READINGS"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Divided parts of an orchestra or a paper",
+            "answer": "SECTIONS",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Cubes in a cold drink",
+            "answer": "ICE",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Come in",
+            "answer": "ENTER",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Touch with the lips",
+            "answer": "KISS",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Explosive device",
+            "answer": "BOMB",
+            "source": "plain/1"
+          },
+          {
+            "number": 11,
+            "text": "Moved quickly on foot",
+            "answer": "RAN",
+            "source": "plain/1"
+          },
+          {
+            "number": 12,
+            "text": "Body part you can sprain",
+            "answer": "ANKLE",
+            "source": "plain/1"
+          },
+          {
+            "number": 13,
+            "text": "Numbers shown on gauges",
+            "answer": "READINGS",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Peel-off labels kids collect",
+            "answer": "STICKERS",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Article for sale in a store",
+            "answer": "ITEM",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Connected system of computers",
+            "answer": "NETWORK",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Math exercises to solve",
+            "answer": "PROBLEMS",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Basic nature of something",
+            "answer": "ESSENCE",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Gave money for",
+            "answer": "PAID",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000049",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "#TOMORROW",
+        "A#B#U###A",
+        "CREATES#R",
+        "C#S#S#C#D",
+        "ORIGINAL#",
+        "U#T#D#N#E",
+        "N#YIELDED",
+        "T###R#A#G",
+        "SUCH#CLUE"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Day to come",
+            "answer": "TOMORROW",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Makes something new",
+            "answer": "CREATES",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Fresh and creative",
+            "answer": "ORIGINAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Gave way",
+            "answer": "YIELDED",
+            "source": "plain/1"
+          },
+          {
+            "number": 11,
+            "text": "Very great, as in ___ fun",
+            "answer": "SUCH",
+            "source": "plain/1"
+          },
+          {
+            "number": 12,
+            "text": "Crossword hint",
+            "answer": "CLUE",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 2,
+            "text": "Health problem tied to excess weight",
+            "answer": "OBESITY",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Person who doesn't belong to the group",
+            "answer": "OUTSIDER",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Child under a guardian's care",
+            "answer": "WARD",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "Reports of events",
+            "answer": "ACCOUNTS",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Juicy gossip-worthy incident",
+            "answer": "SCANDAL",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Outer border of something",
+            "answer": "EDGE",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    },
+    {
+      "id": "p000050",
+      "rev": 2,
+      "size": {
+        "width": 9,
+        "height": 9
+      },
+      "difficulty": 2,
+      "grid": [
+        "DESCRIBE#",
+        "O#E#A#A#T",
+        "UNNAMED#O",
+        "B#D#P###G",
+        "TRIM#ISLE",
+        "F#N#L#H#T",
+        "UPGRADE#H",
+        "L###M#E#E",
+        "#DUMPSTER"
+      ],
+      "clues": {
+        "across": [
+          {
+            "number": 1,
+            "text": "Tell what something is like",
+            "answer": "DESCRIBE",
+            "source": "plain/1"
+          },
+          {
+            "number": 6,
+            "text": "Anonymous, as a source",
+            "answer": "UNNAMED",
+            "source": "plain/1"
+          },
+          {
+            "number": 7,
+            "text": "Neat and slim",
+            "answer": "TRIM",
+            "source": "plain/1"
+          },
+          {
+            "number": 8,
+            "text": "Land in the sea, in poetry",
+            "answer": "ISLE",
+            "source": "plain/1"
+          },
+          {
+            "number": 11,
+            "text": "Move to a better version",
+            "answer": "UPGRADE",
+            "source": "plain/1"
+          },
+          {
+            "number": 12,
+            "text": "Large outdoor garbage container",
+            "answer": "DUMPSTER",
+            "source": "plain/1"
+          }
+        ],
+        "down": [
+          {
+            "number": 1,
+            "text": "Unlikely or uncertain",
+            "answer": "DOUBTFUL",
+            "source": "plain/1"
+          },
+          {
+            "number": 2,
+            "text": "Transmitting a text message",
+            "answer": "SENDING",
+            "source": "plain/1"
+          },
+          {
+            "number": 3,
+            "text": "Sloped path instead of stairs",
+            "answer": "RAMP",
+            "source": "plain/1"
+          },
+          {
+            "number": 4,
+            "text": "Naughty, like a misbehaving child",
+            "answer": "BAD",
+            "source": "plain/1"
+          },
+          {
+            "number": 5,
+            "text": "At the same time",
+            "answer": "TOGETHER",
+            "source": "plain/1"
+          },
+          {
+            "number": 9,
+            "text": "Single piece of paper",
+            "answer": "SHEET",
+            "source": "plain/1"
+          },
+          {
+            "number": 10,
+            "text": "Bedside light",
+            "answer": "LAMP",
+            "source": "plain/1"
+          }
+        ]
+      },
+      "batch": "2026-09-27d"
+    }
+  ]
+}
